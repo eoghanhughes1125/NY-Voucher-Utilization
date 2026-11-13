@@ -1,0 +1,1196 @@
+year,code,name,hq_county_fips,vouchers_available,pct_in_use,hud_spending_per_month
+2017,NY001,Syracuse Housing Authority,36067,4090.0,87.0,520.0
+2017,NY002,Buffalo Municipal Housing Authority,36029,472.0,94.0,447.0
+2017,NY003,The Municipal Hsng Authority City Yonkers,36119,3282.0,78.0,1121.0
+2017,NY005,New York City Housing Authority,36061,99862.0,84.0,1073.0
+2017,NY006,Utica Housing Authority,36065,316.0,70.0,448.0
+2017,NY009,Albany Housing Authority,36001,3186.0,84.0,558.0
+2017,NY012,Troy Housing Authority,36083,925.0,82.0,604.0
+2017,NY015,Mechanicville Housing Authority,36091,180.0,73.0,527.0
+2017,NY016,Binghamton Housing Authority,36007,821.0,70.0,448.0
+2017,NY017,Jamestown Housing Authority,36013,268.0,81.0,377.0
+2017,NY018,Plattsburgh Housing Authority,36019,191.0,98.0,486.0
+2017,NY019,Herkimer Housing Authority,36043,52.0,96.0,348.0
+2017,NY020,Saratoga Springs Housing Authority,36091,90.0,63.0,557.0
+2017,NY021,Cortland Housing Authority,36023,306.0,95.0,402.0
+2017,NY022,Cohoes Housing Authority,36001,327.0,79.0,516.0
+2017,NY023,Freeport Housing Authority,36059,211.0,78.0,1437.0
+2017,NY025,Watervliet Housing Authority,36001,215.0,76.0,525.0
+2017,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,83.0,507.0
+2017,NY028,Schenectady Municipal Housing Authority,36093,1387.0,95.0,553.0
+2017,NY033,Rensselaer Housing Authority,36083,98.0,58.0,785.0
+2017,NY034,Rome Housing Authority,36065,690.0,68.0,224.0
+2017,NY035,Town of Huntington Housing Authority,36103,573.0,65.0,1361.0
+2017,NY038,Mount Kisco Housing Authority,36119,109.0,66.0,1016.0
+2017,NY041,Rochester Housing Authority,36055,9765.0,94.0,539.0
+2017,NY042,White Plains Housing Authority,36119,548.0,77.0,1099.0
+2017,NY044,Geneva Housing Authority,36069,30.0,,
+2017,NY045,Kingston Housing Authority,36111,359.0,53.0,716.0
+2017,NY048,Gloversville Housing Authority,36035,251.0,80.0,419.0
+2017,NY049,The City of Beacon Housing Authority,36027,309.0,66.0,805.0
+2017,NY050,Housing Authority of Long Beach,36059,389.0,70.0,1160.0
+2017,NY051,Housing Authority of Newburgh,36071,431.0,77.0,815.0
+2017,NY054,Ithaca Housing Authority,36109,992.0,98.0,679.0
+2017,NY057,Greenburgh Housing Authority,36119,303.0,84.0,1018.0
+2017,NY059,Ilion Housing Authority,36043,154.0,73.0,407.0
+2017,NY060,Amsterdam Housing Authority,36057,468.0,95.0,477.0
+2017,NY061,Hudson Housing Authority,36021,131.0,,
+2017,NY062,Poughkeepsie Housing Authority,36027,147.0,93.0,552.0
+2017,NY065,Norwich Housing Authority,36017,203.0,74.0,401.0
+2017,NY066,Auburn Housing Authority,36011,421.0,88.0,424.0
+2017,NY067,Hornell Housing Authority,36101,134.0,150.0,359.0
+2017,NY068,Oneonta Housing Authority,36077,80.0,80.0,496.0
+2017,NY070,Lockport Housing Authority,36063,188.0,96.0,417.0
+2017,NY071,Monticello Housing Authority,36105,554.0,84.0,663.0
+2017,NY073,Whitehall Housing Authority,36115,73.0,,
+2017,NY077,Town of Islip Housing Authority,36103,1044.0,87.0,1355.0
+2017,NY079,Glens Falls Housing Authority,36113,739.0,96.0,533.0
+2017,NY084,Town of Ramapo Housing Authority,36087,642.0,86.0,1642.0
+2017,NY085,Village of Hempstead HA,36059,475.0,85.0,1342.0
+2017,NY086,North Hempstead Housing Authority,36059,225.0,162.0,937.0
+2017,NY087,Harrietstown Housing Authority,36033,135.0,94.0,305.0
+2017,NY088,New Rochelle Housing Authority,36119,397.0,99.0,1059.0
+2017,NY089,Newark Housing Authority,36117,377.0,101.0,569.0
+2017,NY091,Town of Amherst,36029,5480.0,89.0,495.0
+2017,NY094,Village of Ossining Section 8 Program,36119,254.0,100.0,1087.0
+2017,NY098,St. Johnsville Housing Authority,36057,218.0,92.0,335.0
+2017,NY102,Oneida Housing Authority,36053,106.0,80.0,447.0
+2017,NY103,Ellenville Housing Authority,36111,144.0,87.0,692.0
+2017,NY107,Village of North Syracuse Housing Authority,36067,283.0,92.0,441.0
+2017,NY109,Little Falls Housing Authority,36043,142.0,80.0,292.0
+2017,NY110,NYC Dept of Housing Preservation and Dev,36061,36372.0,97.0,1076.0
+2017,NY111,Town of Eastchester,36119,255.0,83.0,1033.0
+2017,NY113,City of New Rochelle Housing Authority,36119,1165.0,78.0,963.0
+2017,NY114,Village of Nyack HA,36087,236.0,78.0,1596.0
+2017,NY117,Town of Mamaroneck HA,36119,647.0,73.0,1126.0
+2017,NY120,Village of Island Park HA,36059,40.0,,
+2017,NY121,Glen Cove CDA,36059,340.0,83.0,1272.0
+2017,NY123,City of Peekskill,36119,726.0,83.0,951.0
+2017,NY125,Village of Highland Falls,36091,84.0,71.0,914.0
+2017,NY127,Riverhead Housing Development Corproration,36103,196.0,89.0,1185.0
+2017,NY128,Village of Patchogue CDA,36103,173.0,92.0,1366.0
+2017,NY130,Town of Babylon,36103,881.0,90.0,1285.0
+2017,NY132,Town of Yorktown,36119,152.0,96.0,854.0
+2017,NY134,Port Jervis CDA,36071,327.0,59.0,709.0
+2017,NY137,City of Poughkeepsie,36027,1033.0,70.0,625.0
+2017,NY138,Village of New Square PHA,36087,670.0,93.0,1404.0
+2017,NY141,Town of Southampton,36103,321.0,64.0,1031.0
+2017,NY146,Village of Greenport Housing Authority,36103,87.0,84.0,1034.0
+2017,NY147,Inc. Village of Sea Cliff,36059,20.0,85.0,1228.0
+2017,NY148,Village of Spring Valley HA,36087,815.0,67.0,1275.0
+2017,NY149,"Town of Brookhaven, Dept. of Housing & Human",36103,994.0,96.0,1356.0
+2017,NY151,Village of Farmingdale HA,36059,20.0,,
+2017,NY152,North Fork Hsg Alliance Inc,36103,285.0,57.0,1041.0
+2017,NY154,Town of East Hampton,36103,189.0,52.0,1054.0
+2017,NY158,Village of Kiryas Joel HA,36071,322.0,100.0,1823.0
+2017,NY159,Village of Rockville Centre,36059,303.0,65.0,1125.0
+2017,NY160,Village of Kaser,36087,92.0,97.0,2000.0
+2017,NY165,"Tuckahoe HA, Village of",36119,175.0,97.0,1024.0
+2017,NY402,Village of Elmira Heights,36015,94.0,80.0,354.0
+2017,NY403,City of Salamanca,36009,174.0,82.0,305.0
+2017,NY404,City of Niagara Falls,36063,967.0,77.0,375.0
+2017,NY405,City of North Tonawanda,36029,609.0,91.0,404.0
+2017,NY406,Village of Fairport,36055,497.0,92.0,434.0
+2017,NY408,Town of Colonie,36091,434.0,76.0,602.0
+2017,NY409,City of Buffalo,36029,5216.0,96.0,506.0
+2017,NY413,Village of Canajoharie,36057,60.0,80.0,460.0
+2017,NY416,Town of Clifton Park,36091,59.0,86.0,799.0
+2017,NY417,Dolgeville Housing Authority,36043,20.0,70.0,465.0
+2017,NY421,Town of Hadley,36091,33.0,82.0,568.0
+2017,NY422,Town of Guilderland,36091,110.0,75.0,612.0
+2017,NY424,Town of Wilton,36091,31.0,74.0,409.0
+2017,NY427,Town of Bethlehem,36091,59.0,78.0,655.0
+2017,NY428,Town of Duanesburg,36091,15.0,93.0,550.0
+2017,NY430,Town of Niskayuna,36091,46.0,83.0,943.0
+2017,NY431,Town of Schodack,36091,43.0,63.0,531.0
+2017,NY433,City of Johnstown,36091,132.0,76.0,418.0
+2017,NY443,City of Utica,36065,1285.0,95.0,442.0
+2017,NY447,Town of Knox,36091,20.0,70.0,619.0
+2017,NY449,Buffalo Municipal Housing Authority,36029,972.0,80.0,449.0
+2017,NY501,Hoosick Housing Authority,36083,215.0,73.0,541.0
+2017,NY503,Town of Waterford,36091,45.0,82.0,667.0
+2017,NY504,City of Fulton,36075,481.0,97.0,401.0
+2017,NY505,Town of Union Community Development,36007,522.0,62.0,360.0
+2017,NY512,Village of Scotia,36091,106.0,88.0,646.0
+2017,NY513,Town of Glenville,36091,60.0,73.0,710.0
+2017,NY516,Town of Rotterdam,36091,245.0,85.0,566.0
+2017,NY519,Town of Corinth,36091,28.0,100.0,593.0
+2017,NY521,Canastota Housing Authority,36053,135.0,67.0,326.0
+2017,NY522,Town of Jay,36019,42.0,95.0,462.0
+2017,NY527,Village of Manlius,36067,1326.0,91.0,413.0
+2017,NY529,Town of Saugerties P H A,36111,180.0,95.0,609.0
+2017,NY530,Fort Plain Housing Agency,36091,242.0,64.0,393.0
+2017,NY532,Village of Cobleskill,36095,263.0,92.0,546.0
+2017,NY534,Boonville Housing Authority,36065,30.0,70.0,474.0
+2017,NY535,Village of Green Island,36001,46.0,72.0,1032.0
+2017,NY538,Village of Corinth,36091,91.0,74.0,623.0
+2017,NY541,Village of Walton,36025,409.0,80.0,356.0
+2017,NY552,Village of New Hartford,36065,374.0,76.0,427.0
+2017,NY557,Town of Coeymans,36091,81.0,89.0,632.0
+2017,NY561,Town of Stillwater,36091,129.0,73.0,576.0
+2017,NY562,Village of Ballston Spa,36091,159.0,79.0,634.0
+2017,NY564,Town of Nassau,36091,31.0,81.0,585.0
+2017,NY630,Village of Waterford,36091,55.0,73.0,586.0
+2017,NY888,Mercy Haven Inc.,36103,75.0,97.0,1154.0
+2017,NY889,Southern Tier Environments for Living,36013,25.0,92.0,300.0
+2017,NY891,Options for Community Living,36103,75.0,99.0,1255.0
+2017,NY892,Town of Hempstead Dept. of Urban Renewal,36059,423.0,,
+2017,NY895,Community Development Corp of Long Island,36103,125.0,99.0,1264.0
+2017,NY904,NYS Housing Trust Fund Corporation,36061,48533.0,91.0,927.0
+2018,NY001,Syracuse Housing Authority,36067,4130.0,84.0,555.0
+2018,NY002,Buffalo Municipal Housing Authority,36029,494.0,87.0,467.0
+2018,NY003,The Municipal Hsng Authority City Yonkers,36119,3282.0,77.0,1398.0
+2018,NY005,New York City Housing Authority,36061,99978.0,85.0,1114.0
+2018,NY006,Utica Housing Authority,36065,316.0,61.0,497.0
+2018,NY009,Albany Housing Authority,36001,3204.0,81.0,598.0
+2018,NY012,Troy Housing Authority,36083,935.0,83.0,1116.0
+2018,NY015,Mechanicville Housing Authority,36091,180.0,69.0,515.0
+2018,NY016,Binghamton Housing Authority,36007,821.0,70.0,450.0
+2018,NY017,Jamestown Housing Authority,36013,268.0,85.0,380.0
+2018,NY018,Plattsburgh Housing Authority,36019,201.0,96.0,465.0
+2018,NY019,Herkimer Housing Authority,36043,52.0,85.0,414.0
+2018,NY020,Saratoga Springs Housing Authority,36091,95.0,60.0,631.0
+2018,NY021,Cortland Housing Authority,36023,306.0,91.0,420.0
+2018,NY022,Cohoes Housing Authority,36001,327.0,75.0,536.0
+2018,NY023,Freeport Housing Authority,36059,211.0,73.0,1462.0
+2018,NY025,Watervliet Housing Authority,36001,215.0,80.0,554.0
+2018,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,84.0,541.0
+2018,NY028,Schenectady Municipal Housing Authority,36093,1397.0,96.0,535.0
+2018,NY033,Rensselaer Housing Authority,36083,98.0,62.0,780.0
+2018,NY034,Rome Housing Authority,36065,690.0,68.0,328.0
+2018,NY035,Town of Huntington Housing Authority,36103,573.0,62.0,1332.0
+2018,NY038,Mount Kisco Housing Authority,36119,109.0,71.0,1012.0
+2018,NY041,Rochester Housing Authority,36055,9854.0,96.0,563.0
+2018,NY042,White Plains Housing Authority,36119,548.0,103.0,852.0
+2018,NY044,Geneva Housing Authority,36069,30.0,,
+2018,NY045,Kingston Housing Authority,36111,359.0,53.0,715.0
+2018,NY048,Gloversville Housing Authority,36035,251.0,85.0,434.0
+2018,NY049,The City of Beacon Housing Authority,36027,309.0,65.0,932.0
+2018,NY050,Housing Authority of Long Beach,36059,389.0,69.0,1194.0
+2018,NY051,Housing Authority of Newburgh,36071,431.0,80.0,823.0
+2018,NY054,Ithaca Housing Authority,36109,992.0,101.0,759.0
+2018,NY057,Greenburgh Housing Authority,36119,303.0,84.0,1059.0
+2018,NY059,Ilion Housing Authority,36043,154.0,82.0,399.0
+2018,NY060,Amsterdam Housing Authority,36057,468.0,88.0,500.0
+2018,NY061,Hudson Housing Authority,36021,131.0,,
+2018,NY062,Poughkeepsie Housing Authority,36027,147.0,93.0,580.0
+2018,NY065,Norwich Housing Authority,36017,203.0,71.0,418.0
+2018,NY066,Auburn Housing Authority,36011,394.0,93.0,417.0
+2018,NY067,Hornell Housing Authority,36101,281.0,83.0,385.0
+2018,NY068,Oneonta Housing Authority,36077,80.0,78.0,432.0
+2018,NY070,Lockport Housing Authority,36063,188.0,97.0,396.0
+2018,NY071,Monticello Housing Authority,36105,554.0,75.0,729.0
+2018,NY073,Whitehall Housing Authority,36115,73.0,,
+2018,NY077,Town of Islip Housing Authority,36103,1044.0,117.0,1056.0
+2018,NY079,Glens Falls Housing Authority,36113,749.0,96.0,560.0
+2018,NY084,Town of Ramapo Housing Authority,36087,642.0,117.0,1326.0
+2018,NY085,Village of Hempstead HA,36059,475.0,85.0,1374.0
+2018,NY086,North Hempstead Housing Authority,36059,403.0,90.0,1139.0
+2018,NY087,Harrietstown Housing Authority,36033,135.0,95.0,312.0
+2018,NY088,New Rochelle Housing Authority,36119,397.0,98.0,1329.0
+2018,NY089,Newark Housing Authority,36117,537.0,91.0,423.0
+2018,NY091,Town of Amherst,36029,5506.0,87.0,526.0
+2018,NY094,Village of Ossining Section 8 Program,36119,254.0,100.0,1173.0
+2018,NY098,St. Johnsville Housing Authority,36057,218.0,90.0,295.0
+2018,NY102,Oneida Housing Authority,36053,106.0,80.0,884.0
+2018,NY103,Ellenville Housing Authority,36111,144.0,86.0,752.0
+2018,NY107,Village of North Syracuse Housing Authority,36067,283.0,94.0,485.0
+2018,NY109,Little Falls Housing Authority,36043,142.0,79.0,338.0
+2018,NY110,NYC Dept of Housing Preservation and Dev,36061,36461.0,96.0,1129.0
+2018,NY111,Town of Eastchester,36119,255.0,77.0,1126.0
+2018,NY113,City of New Rochelle Housing Authority,36119,1165.0,76.0,968.0
+2018,NY114,Village of Nyack HA,36087,236.0,80.0,1039.0
+2018,NY117,Town of Mamaroneck HA,36119,647.0,72.0,1082.0
+2018,NY120,Village of Island Park HA,36059,40.0,,
+2018,NY121,Glen Cove Community Development Agency,36059,340.0,81.0,1355.0
+2018,NY123,City of Peekskill,36119,726.0,82.0,1012.0
+2018,NY125,Village of Highland Falls,36091,84.0,65.0,1034.0
+2018,NY127,Riverhead Housing Development Corproration,36103,196.0,87.0,1187.0
+2018,NY128,Village of Patchogue CDA,36103,173.0,90.0,1418.0
+2018,NY130,Town of Babylon,36103,881.0,88.0,1387.0
+2018,NY132,Town of Yorktown,36119,152.0,94.0,857.0
+2018,NY134,Port Jervis CDA,36071,349.0,54.0,737.0
+2018,NY137,City of Poughkeepsie,36027,1033.0,67.0,657.0
+2018,NY138,Village of New Square PHA,36087,670.0,91.0,1475.0
+2018,NY141,Town of Southampton,36103,321.0,60.0,1055.0
+2018,NY146,Village of Greenport Housing Authority,36103,87.0,86.0,1130.0
+2018,NY147,Inc. Village of Sea Cliff,36059,20.0,90.0,1190.0
+2018,NY148,Village of Spring Valley HA,36087,815.0,66.0,1345.0
+2018,NY149,"Town of Brookhaven, Dept. of Housing & Human",36103,994.0,94.0,1398.0
+2018,NY151,Village of Farmingdale HA,36059,20.0,,
+2018,NY152,North Fork Hsg Alliance Inc,36103,285.0,54.0,1059.0
+2018,NY154,Town of East Hampton,36103,189.0,50.0,1177.0
+2018,NY158,Village of Kiryas Joel HA,36071,331.0,115.0,1686.0
+2018,NY159,Village of Rockville Centre,36059,303.0,66.0,1122.0
+2018,NY160,Village of Kaser,36087,92.0,100.0,2058.0
+2018,NY165,"Tuckahoe HA, Village of",36119,175.0,97.0,989.0
+2018,NY402,Village of Elmira Heights,36015,94.0,74.0,390.0
+2018,NY403,City of Salamanca,36009,174.0,77.0,318.0
+2018,NY404,City of Niagara Falls,36063,967.0,71.0,433.0
+2018,NY405,City of North Tonawanda,36029,606.0,89.0,436.0
+2018,NY406,Village of Fairport,36055,497.0,91.0,437.0
+2018,NY408,Town of Colonie,36091,434.0,75.0,604.0
+2018,NY409,City of Buffalo,36029,5216.0,94.0,545.0
+2018,NY413,Village of Canajoharie,36057,60.0,75.0,485.0
+2018,NY416,Town of Clifton Park,36091,59.0,88.0,783.0
+2018,NY417,Dolgeville Housing Authority,36043,20.0,70.0,480.0
+2018,NY421,Town of Hadley,36091,33.0,88.0,628.0
+2018,NY422,Town of Guilderland,36091,110.0,74.0,625.0
+2018,NY424,Town of Wilton,36091,31.0,84.0,349.0
+2018,NY427,Town of Bethlehem,36091,59.0,80.0,642.0
+2018,NY428,Town of Duanesburg,36091,15.0,87.0,686.0
+2018,NY430,Town of Niskayuna,36091,46.0,93.0,881.0
+2018,NY431,Town of Schodack,36091,43.0,60.0,586.0
+2018,NY433,City of Johnstown,36091,132.0,71.0,449.0
+2018,NY443,City of Utica,36065,1285.0,92.0,461.0
+2018,NY447,Town of Knox,36091,20.0,55.0,676.0
+2018,NY449,Buffalo Municipal Housing Authority,36029,972.0,77.0,486.0
+2018,NY501,Hoosick Housing Authority,36083,215.0,63.0,554.0
+2018,NY503,Town of Waterford,36091,45.0,82.0,751.0
+2018,NY504,City of Fulton,36075,481.0,92.0,425.0
+2018,NY505,Town of Union Community Development,36007,522.0,64.0,377.0
+2018,NY512,Village of Scotia,36091,106.0,86.0,667.0
+2018,NY513,Town of Glenville,36091,60.0,77.0,689.0
+2018,NY516,Town of Rotterdam,36091,245.0,84.0,624.0
+2018,NY519,Town of Corinth,36091,28.0,96.0,746.0
+2018,NY521,Canastota Housing Authority,36053,135.0,59.0,358.0
+2018,NY522,Town of Jay,36031,42.0,88.0,441.0
+2018,NY527,Village of Manlius,36067,1326.0,93.0,419.0
+2018,NY529,Town of Saugerties P H A,36111,180.0,91.0,627.0
+2018,NY530,Fort Plain Housing Agency,36091,242.0,63.0,416.0
+2018,NY532,Village of Cobleskill,36095,263.0,95.0,590.0
+2018,NY534,Boonville Housing Authority,36065,30.0,63.0,255.0
+2018,NY535,Village of Green Island,36001,46.0,72.0,1183.0
+2018,NY538,Village of Corinth,36091,91.0,71.0,644.0
+2018,NY541,Village of Walton,36025,409.0,77.0,381.0
+2018,NY552,Village of New Hartford,36065,374.0,78.0,410.0
+2018,NY557,Town of Coeymans,36091,81.0,96.0,592.0
+2018,NY561,Town of Stillwater,36091,129.0,75.0,634.0
+2018,NY562,Village of Ballston Spa,36091,159.0,75.0,629.0
+2018,NY564,Town of Nassau,36091,31.0,87.0,547.0
+2018,NY630,Village of Waterford,36091,55.0,80.0,639.0
+2018,NY888,Mercy Haven Inc.,36103,75.0,99.0,1190.0
+2018,NY889,Southern Tier Environments for Living,36013,25.0,96.0,286.0
+2018,NY891,Options for Community Living,36103,75.0,95.0,1272.0
+2018,NY892,Town of Hempstead Dept. of Urban Renewal,36059,423.0,,
+2018,NY895,Community Development Corp of Long Island,36103,125.0,98.0,1275.0
+2018,NY904,NYS Housing Trust Fund Corporation,36061,48846.0,90.0,941.0
+2019,NY001,Syracuse Housing Authority,36067,4130.0,85.0,583.0
+2019,NY002,Buffalo Municipal Housing Authority,36029,494.0,97.0,545.0
+2019,NY003,The Municipal Hsng Authority City Yonkers,36119,3558.0,112.0,1051.0
+2019,NY005,New York City Housing Authority,36061,102561.0,84.0,1134.0
+2019,NY006,Utica Housing Authority,36065,316.0,65.0,527.0
+2019,NY009,Albany Housing Authority,36001,3204.0,80.0,589.0
+2019,NY012,Troy Housing Authority,36083,1008.0,165.0,632.0
+2019,NY015,Mechanicville Housing Authority,36091,180.0,66.0,523.0
+2019,NY016,Binghamton Housing Authority,36007,821.0,71.0,465.0
+2019,NY017,Jamestown Housing Authority,36013,268.0,91.0,381.0
+2019,NY018,Plattsburgh Housing Authority,36019,201.0,97.0,461.0
+2019,NY019,Herkimer Housing Authority,36043,52.0,79.0,385.0
+2019,NY020,Saratoga Springs Housing Authority,36091,95.0,63.0,615.0
+2019,NY021,Cortland Housing Authority,36109,306.0,93.0,428.0
+2019,NY022,Cohoes Housing Authority,36001,327.0,68.0,551.0
+2019,NY023,Freeport Housing Authority,36059,310.0,,
+2019,NY025,Watervliet Housing Authority,36001,215.0,88.0,519.0
+2019,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,91.0,542.0
+2019,NY028,Schenectady Municipal Housing Authority,36093,1468.0,92.0,573.0
+2019,NY033,Rensselaer Housing Authority,36083,98.0,67.0,748.0
+2019,NY034,Rome Housing Authority,36065,690.0,66.0,382.0
+2019,NY035,Town of Huntington Housing Authority,36103,573.0,58.0,1485.0
+2019,NY038,Mount Kisco Housing Authority,36119,109.0,72.0,1065.0
+2019,NY041,Rochester Housing Authority,36055,10014.0,92.0,565.0
+2019,NY042,White Plains Housing Authority,36119,715.0,78.0,885.0
+2019,NY044,Geneva Housing Authority,36069,30.0,,
+2019,NY045,Kingston Housing Authority,36111,359.0,,
+2019,NY048,Gloversville Housing Authority,36035,251.0,84.0,449.0
+2019,NY049,The City of Beacon Housing Authority,36027,317.0,63.0,968.0
+2019,NY050,Housing Authority of Long Beach,36059,389.0,69.0,1221.0
+2019,NY051,Housing Authority of Newburgh,36071,431.0,75.0,867.0
+2019,NY054,Ithaca Housing Authority,36109,1033.0,94.0,748.0
+2019,NY057,Greenburgh Housing Authority,36119,303.0,82.0,1094.0
+2019,NY059,Ilion Housing Authority,36043,154.0,82.0,457.0
+2019,NY060,Amsterdam Housing Authority,36057,468.0,88.0,512.0
+2019,NY061,Hudson Housing Authority,36021,131.0,,
+2019,NY062,Poughkeepsie Housing Authority,36027,147.0,89.0,662.0
+2019,NY065,Norwich Housing Authority,36017,203.0,72.0,420.0
+2019,NY066,Auburn Housing Authority,36011,394.0,88.0,447.0
+2019,NY067,Hornell Housing Authority,36101,281.0,84.0,377.0
+2019,NY068,Oneonta Housing Authority,36077,80.0,80.0,458.0
+2019,NY070,Lockport Housing Authority,36063,188.0,99.0,428.0
+2019,NY071,Monticello Housing Authority,36105,554.0,68.0,673.0
+2019,NY077,Town of Islip Housing Authority,36103,1386.0,91.0,1090.0
+2019,NY079,Glens Falls Housing Authority,36113,822.0,94.0,538.0
+2019,NY084,Town of Ramapo Housing Authority,36087,842.0,90.0,1411.0
+2019,NY085,Village of Hempstead HA,36059,475.0,82.0,1389.0
+2019,NY086,North Hempstead Housing Authority,36059,403.0,89.0,968.0
+2019,NY087,Harrietstown Housing Authority,36033,135.0,91.0,334.0
+2019,NY088,New Rochelle Housing Authority,36119,397.0,143.0,1020.0
+2019,NY089,Newark Housing Authority,36117,537.0,99.0,409.0
+2019,NY091,Town of Amherst,36029,5508.0,86.0,549.0
+2019,NY094,Village of Ossining Section 8 Program,36119,254.0,100.0,1181.0
+2019,NY098,St. Johnsville Housing Authority,36057,218.0,89.0,330.0
+2019,NY102,Oneida Housing Authority,36053,106.0,206.0,385.0
+2019,NY103,Ellenville Housing Authority,36111,144.0,83.0,699.0
+2019,NY107,Village of North Syracuse Housing Authority,36067,283.0,92.0,427.0
+2019,NY109,Little Falls Housing Authority,36043,142.0,75.0,321.0
+2019,NY110,NYC Dept of Housing Preservation and Dev,36061,36683.0,97.0,1107.0
+2019,NY113,City of New Rochelle Housing Authority,36119,1165.0,73.0,977.0
+2019,NY114,Village of Nyack HA,36087,236.0,83.0,1188.0
+2019,NY117,Town of Mamaroneck HA,36119,647.0,74.0,1076.0
+2019,NY120,Village of Island Park HA,36059,40.0,,
+2019,NY121,Glen Cove Community Development Agency,36059,340.0,81.0,1424.0
+2019,NY123,City of Peekskill,36119,726.0,78.0,1004.0
+2019,NY125,Village of Highland Falls,36091,84.0,63.0,1031.0
+2019,NY127,Riverhead Housing Development Corproration,36103,196.0,84.0,1163.0
+2019,NY128,Village of Patchogue CDA,36103,173.0,90.0,1403.0
+2019,NY130,Town of Babylon,36103,881.0,88.0,1428.0
+2019,NY132,Town of Yorktown,36119,152.0,92.0,904.0
+2019,NY134,Port Jervis CDA,36071,349.0,,
+2019,NY137,City of Poughkeepsie,36027,1033.0,65.0,674.0
+2019,NY138,Village of New Square PHA,36087,670.0,90.0,1512.0
+2019,NY141,Town of Southampton,36103,321.0,59.0,1208.0
+2019,NY146,Village of Greenport Housing Authority,36103,87.0,91.0,1124.0
+2019,NY147,Inc. Village of Sea Cliff,36059,20.0,85.0,1230.0
+2019,NY148,Village of Spring Valley HA,36087,815.0,63.0,1477.0
+2019,NY149,"Town of Brookhaven, Dept. of Housing & Human",36103,994.0,92.0,1451.0
+2019,NY151,Village of Farmingdale HA,36059,20.0,,
+2019,NY152,North Fork Hsg Alliance Inc,36103,285.0,52.0,1004.0
+2019,NY154,Town of East Hampton,36103,189.0,,
+2019,NY158,Village of Kiryas Joel HA,36071,391.0,98.0,1667.0
+2019,NY159,Village of Rockville Centre,36059,303.0,66.0,1064.0
+2019,NY160,Village of Kaser,36087,92.0,100.0,2209.0
+2019,NY165,"Tuckahoe HA, Village of",36119,175.0,93.0,1045.0
+2019,NY402,Village of Elmira Heights,36015,94.0,74.0,384.0
+2019,NY403,City of Salamanca,36009,174.0,81.0,322.0
+2019,NY404,City of Niagara Falls,36063,967.0,70.0,444.0
+2019,NY405,City of North Tonawanda,36029,606.0,91.0,442.0
+2019,NY406,Village of Fairport,36055,497.0,88.0,452.0
+2019,NY408,Town of Colonie,36091,434.0,76.0,667.0
+2019,NY409,City of Buffalo,36029,5216.0,95.0,536.0
+2019,NY413,Village of Canajoharie,36057,60.0,70.0,446.0
+2019,NY416,Town of Clifton Park,36091,59.0,83.0,894.0
+2019,NY417,Dolgeville Housing Authority,36043,20.0,75.0,493.0
+2019,NY421,Town of Hadley,36091,33.0,94.0,647.0
+2019,NY422,Town of Guilderland,36091,110.0,76.0,667.0
+2019,NY424,Town of Wilton,36091,31.0,87.0,441.0
+2019,NY427,Town of Bethlehem,36091,59.0,80.0,642.0
+2019,NY428,Town of Duanesburg,36091,15.0,87.0,646.0
+2019,NY430,Town of Niskayuna,36091,46.0,85.0,1084.0
+2019,NY431,Town of Schodack,36091,43.0,65.0,587.0
+2019,NY433,City of Johnstown,36091,132.0,70.0,420.0
+2019,NY443,City of Utica,36065,1285.0,93.0,460.0
+2019,NY447,Town of Knox,36091,20.0,55.0,574.0
+2019,NY449,Buffalo Municipal Housing Authority,36029,972.0,73.0,501.0
+2019,NY501,Hoosick Housing Authority,36083,215.0,58.0,631.0
+2019,NY503,Town of Waterford,36091,45.0,93.0,638.0
+2019,NY504,City of Fulton,36075,481.0,91.0,465.0
+2019,NY505,Town of Union Community Development,36007,522.0,60.0,381.0
+2019,NY512,Village of Scotia,36091,106.0,86.0,663.0
+2019,NY513,Town of Glenville,36091,60.0,75.0,687.0
+2019,NY516,Town of Rotterdam,36091,245.0,87.0,674.0
+2019,NY519,Town of Corinth,36091,28.0,93.0,687.0
+2019,NY521,Canastota Housing Authority,36053,135.0,56.0,385.0
+2019,NY527,Village of Manlius,36067,1326.0,89.0,410.0
+2019,NY529,Town of Saugerties P H A,36111,180.0,93.0,646.0
+2019,NY530,Fort Plain Housing Agency,36091,242.0,65.0,413.0
+2019,NY532,Village of Cobleskill,36095,263.0,97.0,534.0
+2019,NY534,Boonville Housing Authority,36065,30.0,53.0,240.0
+2019,NY535,Village of Green Island,36001,46.0,76.0,1117.0
+2019,NY538,Village of Corinth,36091,91.0,79.0,647.0
+2019,NY541,Village of Walton,36025,409.0,78.0,363.0
+2019,NY552,Village of New Hartford,36065,374.0,72.0,423.0
+2019,NY557,Town of Coeymans,36091,81.0,96.0,627.0
+2019,NY561,Town of Stillwater,36091,129.0,74.0,701.0
+2019,NY562,Village of Ballston Spa,36091,159.0,79.0,636.0
+2019,NY564,Town of Nassau,36091,31.0,87.0,623.0
+2019,NY630,Village of Waterford,36091,55.0,76.0,698.0
+2019,NY888,Mercy Haven Inc.,36103,75.0,96.0,1276.0
+2019,NY889,Southern Tier Environments for Living,36013,25.0,92.0,331.0
+2019,NY891,Options for Community Living,36103,75.0,91.0,1315.0
+2019,NY892,Town of Hempstead Dept. of Urban Renewal,36059,423.0,,
+2019,NY895,Community Development Corp of Long Island,36103,125.0,96.0,1293.0
+2019,NY904,NYS Housing Trust Fund Corporation,36061,49160.0,91.0,950.0
+2020,NY001,Syracuse Housing Authority,36067,4186.0,85.0,585.0
+2020,NY002,Buffalo Municipal Housing Authority,36029,547.0,85.0,556.0
+2020,NY003,The Municipal Hsng Authority City Yonkers,36119,5057.0,84.0,1002.0
+2020,NY005,New York City Housing Authority,36061,104141.0,83.0,1240.0
+2020,NY006,Utica Housing Authority,36065,355.0,60.0,652.0
+2020,NY009,Albany Housing Authority,36001,3214.0,80.0,614.0
+2020,NY012,Troy Housing Authority,36083,2061.0,79.0,574.0
+2020,NY015,Mechanicville Housing Authority,36091,180.0,62.0,1106.0
+2020,NY016,Binghamton Housing Authority,36007,821.0,72.0,504.0
+2020,NY017,Jamestown Housing Authority,36013,268.0,85.0,381.0
+2020,NY018,Plattsburgh Housing Authority,36019,206.0,96.0,451.0
+2020,NY019,Herkimer Housing Authority,36043,52.0,69.0,541.0
+2020,NY020,Saratoga Springs Housing Authority,36091,95.0,65.0,683.0
+2020,NY021,Cortland Housing Authority,36109,306.0,96.0,450.0
+2020,NY022,Cohoes Housing Authority,36001,327.0,64.0,584.0
+2020,NY023,Freeport Housing Authority,36059,310.0,,
+2020,NY025,Watervliet Housing Authority,36001,215.0,85.0,531.0
+2020,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,86.0,522.0
+2020,NY028,Schenectady Municipal Housing Authority,36093,1473.0,93.0,585.0
+2020,NY033,Rensselaer Housing Authority,36083,98.0,71.0,713.0
+2020,NY034,Rome Housing Authority,36065,773.0,64.0,361.0
+2020,NY035,Town of Huntington Housing Authority,36103,573.0,57.0,1498.0
+2020,NY038,Mount Kisco Housing Authority,36119,109.0,67.0,1134.0
+2020,NY041,Rochester Housing Authority,36055,10129.0,90.0,599.0
+2020,NY042,White Plains Housing Authority,36119,715.0,82.0,951.0
+2020,NY044,Geneva Housing Authority,36069,30.0,,
+2020,NY045,Kingston Housing Authority,36111,359.0,54.0,711.0
+2020,NY048,Gloversville Housing Authority,36035,251.0,84.0,468.0
+2020,NY049,The City of Beacon Housing Authority,36027,391.0,66.0,978.0
+2020,NY050,Housing Authority of Long Beach,36059,389.0,67.0,1358.0
+2020,NY051,Housing Authority of Newburgh,36071,431.0,70.0,900.0
+2020,NY054,Ithaca Housing Authority,36109,1033.0,96.0,784.0
+2020,NY057,Greenburgh Housing Authority,36119,416.0,54.0,1244.0
+2020,NY059,Ilion Housing Authority,36043,154.0,76.0,459.0
+2020,NY060,Amsterdam Housing Authority,36057,473.0,86.0,521.0
+2020,NY061,Hudson Housing Authority,36021,131.0,,
+2020,NY062,Poughkeepsie Housing Authority,36027,147.0,89.0,675.0
+2020,NY065,Norwich Housing Authority,36017,203.0,70.0,470.0
+2020,NY066,Auburn Housing Authority,36011,433.0,86.0,468.0
+2020,NY067,Hornell Housing Authority,36101,281.0,79.0,418.0
+2020,NY068,Oneonta Housing Authority,36077,80.0,75.0,487.0
+2020,NY070,Lockport Housing Authority,36063,188.0,89.0,429.0
+2020,NY071,Monticello Housing Authority,36105,554.0,64.0,671.0
+2020,NY077,Town of Islip Housing Authority,36103,1386.0,88.0,1105.0
+2020,NY079,Glens Falls Housing Authority,36113,828.0,95.0,557.0
+2020,NY084,Town of Ramapo Housing Authority,36087,842.0,89.0,1506.0
+2020,NY085,Village of Hempstead HA,36059,475.0,83.0,1454.0
+2020,NY086,North Hempstead Housing Authority,36059,403.0,91.0,957.0
+2020,NY087,Harrietstown Housing Authority,36033,135.0,87.0,349.0
+2020,NY088,New Rochelle Housing Authority,36119,600.0,98.0,983.0
+2020,NY089,Newark Housing Authority,36117,537.0,98.0,418.0
+2020,NY091,Town of Amherst,36029,5513.0,87.0,557.0
+2020,NY094,Village of Ossining Section 8 Program,36119,254.0,95.0,1243.0
+2020,NY098,St. Johnsville Housing Authority,36057,218.0,90.0,343.0
+2020,NY102,Oneida Housing Authority,36053,246.0,87.0,408.0
+2020,NY103,Ellenville Housing Authority,36111,144.0,83.0,762.0
+2020,NY107,Village of North Syracuse Housing Authority,36067,283.0,86.0,468.0
+2020,NY109,Little Falls Housing Authority,36043,142.0,74.0,319.0
+2020,NY110,NYC Dept of Housing Preservation and Dev,36061,36749.0,98.0,1055.0
+2020,NY113,City of New Rochelle Housing Authority,36119,1165.0,72.0,1064.0
+2020,NY114,Village of Nyack HA,36087,236.0,80.0,1179.0
+2020,NY117,Town of Mamaroneck HA,36119,647.0,75.0,1173.0
+2020,NY121,Glen Cove Community Development Agency,36059,340.0,83.0,1471.0
+2020,NY123,City of Peekskill,36119,726.0,77.0,1120.0
+2020,NY125,Village of Highland Falls,36091,84.0,70.0,961.0
+2020,NY127,Riverhead Housing Development Corproration,36103,196.0,80.0,1221.0
+2020,NY128,Village of Patchogue CDA,36103,173.0,87.0,1380.0
+2020,NY130,Town of Babylon,36103,881.0,90.0,2402.0
+2020,NY132,Town of Yorktown,36119,152.0,86.0,962.0
+2020,NY134,Port Jervis CDA,36071,356.0,,
+2020,NY137,City of Poughkeepsie,36027,1033.0,67.0,685.0
+2020,NY138,Village of New Square PHA,36087,670.0,88.0,1585.0
+2020,NY141,Town of Southampton,36103,321.0,,
+2020,NY146,Village of Greenport Housing Authority,36103,87.0,89.0,1176.0
+2020,NY147,Inc. Village of Sea Cliff,36059,20.0,85.0,1178.0
+2020,NY148,Village of Spring Valley HA,36087,815.0,64.0,1533.0
+2020,NY149,"Town of Brookhaven, Dept. of Housing & Human",36103,994.0,91.0,1479.0
+2020,NY152,North Fork Hsg Alliance Inc,36103,285.0,51.0,1070.0
+2020,NY154,Town of East Hampton,36103,189.0,,
+2020,NY158,Village of Kiryas Joel HA,36071,427.0,89.0,1808.0
+2020,NY159,Village of Rockville Centre,36059,303.0,65.0,1164.0
+2020,NY160,Village of Kaser,36087,92.0,99.0,2424.0
+2020,NY165,"Tuckahoe HA, Village of",36119,175.0,88.0,1083.0
+2020,NY402,Village of Elmira Heights,36015,94.0,77.0,402.0
+2020,NY403,City of Salamanca,36009,174.0,79.0,348.0
+2020,NY404,City of Niagara Falls,36063,967.0,70.0,455.0
+2020,NY405,City of North Tonawanda,36029,606.0,87.0,462.0
+2020,NY406,Village of Fairport,36055,497.0,86.0,504.0
+2020,NY408,Town of Colonie,36091,434.0,74.0,715.0
+2020,NY409,City of Buffalo,36029,5288.0,93.0,556.0
+2020,NY413,Village of Canajoharie,36057,60.0,78.0,178.0
+2020,NY416,Town of Clifton Park,36091,59.0,81.0,853.0
+2020,NY417,Dolgeville Housing Authority,36043,20.0,70.0,432.0
+2020,NY421,Town of Hadley,36091,33.0,94.0,687.0
+2020,NY422,Town of Guilderland,36091,110.0,75.0,720.0
+2020,NY424,Town of Wilton,36091,31.0,81.0,521.0
+2020,NY427,Town of Bethlehem,36091,59.0,75.0,680.0
+2020,NY428,Town of Duanesburg,36091,15.0,87.0,567.0
+2020,NY430,Town of Niskayuna,36091,46.0,91.0,1179.0
+2020,NY431,Town of Schodack,36091,43.0,58.0,651.0
+2020,NY433,City of Johnstown,36091,132.0,76.0,406.0
+2020,NY443,City of Utica,36065,1285.0,89.0,471.0
+2020,NY447,Town of Knox,36091,20.0,55.0,877.0
+2020,NY449,Buffalo Municipal Housing Authority,36029,972.0,69.0,514.0
+2020,NY501,Hoosick Housing Authority,36083,215.0,59.0,626.0
+2020,NY503,Town of Waterford,36091,45.0,89.0,707.0
+2020,NY504,City of Fulton,36075,481.0,91.0,475.0
+2020,NY505,Town of Union Community Development,36007,522.0,60.0,369.0
+2020,NY512,Village of Scotia,36091,106.0,84.0,692.0
+2020,NY513,Town of Glenville,36091,60.0,80.0,694.0
+2020,NY516,Town of Rotterdam,36091,245.0,84.0,717.0
+2020,NY519,Town of Corinth,36091,28.0,93.0,703.0
+2020,NY521,Canastota Housing Authority,36053,135.0,50.0,426.0
+2020,NY527,Village of Manlius,36067,1326.0,87.0,441.0
+2020,NY529,Town of Saugerties P H A,36111,180.0,86.0,604.0
+2020,NY530,Fort Plain Housing Agency,36091,242.0,62.0,434.0
+2020,NY532,Village of Cobleskill,36095,263.0,100.0,514.0
+2020,NY534,Boonville Housing Authority,36065,30.0,60.0,336.0
+2020,NY535,Village of Green Island,36001,46.0,74.0,1277.0
+2020,NY538,Village of Corinth,36091,91.0,78.0,720.0
+2020,NY541,Village of Walton,36025,409.0,72.0,375.0
+2020,NY552,Village of New Hartford,36065,374.0,70.0,459.0
+2020,NY557,Town of Coeymans,36091,81.0,96.0,578.0
+2020,NY561,Town of Stillwater,36091,129.0,79.0,694.0
+2020,NY562,Village of Ballston Spa,36091,159.0,77.0,652.0
+2020,NY564,Town of Nassau,36091,31.0,84.0,598.0
+2020,NY630,Village of Waterford,36091,55.0,78.0,670.0
+2020,NY888,Mercy Haven Inc.,36103,75.0,88.0,1244.0
+2020,NY889,Southern Tier Environments for Living,36013,25.0,96.0,317.0
+2020,NY891,Options for Community Living,36103,75.0,89.0,1355.0
+2020,NY895,Community Development Corp of Long Island,36103,125.0,92.0,1448.0
+2020,NY904,NYS Housing Trust Fund Corporation,36061,49773.0,90.0,1017.0
+2021,NY001,Syracuse Housing Authority,36067,4186.0,86.0,635.0
+2021,NY002,Buffalo Municipal Housing Authority,36029,587.0,84.0,591.0
+2021,NY003,The Municipal Hsng Authority City Yonkers,36119,5118.0,81.0,1058.0
+2021,NY005,New York City Housing Authority,36061,105655.0,83.0,1245.0
+2021,NY006,Utica Housing Authority,36065,355.0,60.0,693.0
+2021,NY009,Albany Housing Authority,36001,3358.0,77.0,671.0
+2021,NY012,Troy Housing Authority,36083,2108.0,78.0,625.0
+2021,NY015,Mechanicville Housing Authority,36091,180.0,151.0,528.0
+2021,NY016,Binghamton Housing Authority,36007,821.0,72.0,536.0
+2021,NY017,Jamestown Housing Authority,36013,268.0,90.0,411.0
+2021,NY018,Plattsburgh Housing Authority,36019,211.0,91.0,484.0
+2021,NY019,Herkimer Housing Authority,36043,52.0,54.0,922.0
+2021,NY020,Saratoga Springs Housing Authority,36091,157.0,,
+2021,NY021,Cortland Housing Authority,36109,306.0,96.0,470.0
+2021,NY022,Cohoes Housing Authority,36001,327.0,62.0,587.0
+2021,NY023,Freeport Housing Authority,36059,310.0,52.0,1693.0
+2021,NY025,Watervliet Housing Authority,36001,215.0,80.0,585.0
+2021,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,89.0,556.0
+2021,NY028,Schenectady Municipal Housing Authority,36093,1548.0,89.0,592.0
+2021,NY033,Rensselaer Housing Authority,36083,98.0,74.0,735.0
+2021,NY034,Rome Housing Authority,36065,773.0,65.0,362.0
+2021,NY035,Town of Huntington Housing Authority,36103,573.0,55.0,1567.0
+2021,NY038,Mount Kisco Housing Authority,36119,109.0,74.0,1187.0
+2021,NY041,Rochester Housing Authority,36055,10133.0,87.0,620.0
+2021,NY042,White Plains Housing Authority,36119,715.0,85.0,968.0
+2021,NY044,Geneva Housing Authority,36069,30.0,,
+2021,NY045,Kingston Housing Authority,36111,359.0,52.0,725.0
+2021,NY048,Gloversville Housing Authority,36035,251.0,84.0,494.0
+2021,NY049,The City of Beacon Housing Authority,36027,635.0,76.0,964.0
+2021,NY050,Housing Authority of Long Beach,36059,389.0,65.0,1404.0
+2021,NY051,Housing Authority of Newburgh,36071,431.0,67.0,900.0
+2021,NY054,Ithaca Housing Authority,36109,1033.0,97.0,870.0
+2021,NY057,Greenburgh Housing Authority,36119,416.0,63.0,1072.0
+2021,NY059,Ilion Housing Authority,36043,154.0,81.0,476.0
+2021,NY060,Amsterdam Housing Authority,36057,518.0,77.0,601.0
+2021,NY061,Hudson Housing Authority,36021,131.0,140.0,386.0
+2021,NY062,Poughkeepsie Housing Authority,36027,165.0,88.0,667.0
+2021,NY065,Norwich Housing Authority,36017,203.0,67.0,474.0
+2021,NY066,Auburn Housing Authority,36011,433.0,86.0,502.0
+2021,NY067,Hornell Housing Authority,36101,281.0,79.0,387.0
+2021,NY068,Oneonta Housing Authority,36077,80.0,77.0,534.0
+2021,NY070,Lockport Housing Authority,36063,188.0,86.0,489.0
+2021,NY071,Monticello Housing Authority,36105,554.0,61.0,656.0
+2021,NY077,Town of Islip Housing Authority,36103,1456.0,83.0,1148.0
+2021,NY079,Glens Falls Housing Authority,36113,978.0,89.0,609.0
+2021,NY084,Town of Ramapo Housing Authority,36087,842.0,87.0,1613.0
+2021,NY085,Village of Hempstead HA,36059,475.0,79.0,1442.0
+2021,NY086,North Hempstead Housing Authority,36059,443.0,82.0,1067.0
+2021,NY087,Harrietstown Housing Authority,36033,135.0,89.0,388.0
+2021,NY088,New Rochelle Housing Authority,36119,600.0,94.0,1025.0
+2021,NY089,Newark Housing Authority,36117,537.0,97.0,457.0
+2021,NY091,Town of Amherst,36029,5540.0,82.0,581.0
+2021,NY094,Village of Ossining Section 8 Program,36119,254.0,93.0,1233.0
+2021,NY098,St. Johnsville Housing Authority,36057,218.0,89.0,306.0
+2021,NY102,Oneida Housing Authority,36053,246.0,92.0,404.0
+2021,NY103,Ellenville Housing Authority,36111,144.0,83.0,808.0
+2021,NY107,Village of North Syracuse Housing Authority,36067,283.0,83.0,379.0
+2021,NY109,Little Falls Housing Authority,36043,142.0,73.0,337.0
+2021,NY110,NYC Dept of Housing Preservation and Dev,36061,37544.0,99.0,840.0
+2021,NY113,City of New Rochelle Housing Authority,36119,1165.0,70.0,1078.0
+2021,NY114,Village of Nyack HA,36087,236.0,73.0,1162.0
+2021,NY117,Town of Mamaroneck Housing Voucher Program,36119,647.0,74.0,1256.0
+2021,NY121,Glen Cove Community Development Agency,36059,340.0,82.0,1554.0
+2021,NY123,City of Peekskill,36119,726.0,75.0,1145.0
+2021,NY125,Village of Highland Falls,36091,84.0,67.0,1059.0
+2021,NY127,Riverhead Housing Development Corproration,36103,196.0,78.0,1253.0
+2021,NY128,Village of Patchogue CDA,36103,173.0,87.0,1406.0
+2021,NY130,Town of Babylon,36103,881.0,92.0,1476.0
+2021,NY132,Town of Yorktown,36119,152.0,76.0,929.0
+2021,NY134,Port Jervis CDA,36071,356.0,,
+2021,NY137,City of Poughkeepsie,36027,1033.0,68.0,705.0
+2021,NY138,Village of New Square PHA,36087,670.0,88.0,1632.0
+2021,NY141,Town of Southampton,36103,321.0,,
+2021,NY146,Village of Greenport Housing Authority,36103,87.0,90.0,1315.0
+2021,NY147,Inc. Village of Sea Cliff,36059,20.0,75.0,1074.0
+2021,NY148,Village of Spring Valley HA,36087,815.0,63.0,1616.0
+2021,NY149,Town of Brookhaven Dept. of Hsg & Comm Dev,36103,995.0,86.0,1561.0
+2021,NY152,North Fork Hsg Alliance Inc,36103,285.0,,
+2021,NY154,Town of East Hampton,36103,189.0,,
+2021,NY158,Village of Kiryas Joel HA,36071,467.0,81.0,2003.0
+2021,NY159,Village of Rockville Centre,36059,303.0,63.0,1187.0
+2021,NY160,Village of Kaser,36087,107.0,86.0,2597.0
+2021,NY165,"Tuckahoe HA, Village of",36119,175.0,95.0,1165.0
+2021,NY402,Village of Elmira Heights,36015,94.0,79.0,412.0
+2021,NY403,City of Salamanca,36009,174.0,80.0,406.0
+2021,NY404,City of Niagara Falls,36063,967.0,63.0,481.0
+2021,NY405,City of North Tonawanda,36029,652.0,82.0,454.0
+2021,NY406,Village of Fairport,36055,497.0,85.0,523.0
+2021,NY408,Town of Colonie,36091,434.0,79.0,728.0
+2021,NY409,City of Buffalo,36029,5289.0,91.0,573.0
+2021,NY413,Village of Canajoharie,36057,60.0,75.0,568.0
+2021,NY416,Town of Clifton Park,36091,59.0,93.0,931.0
+2021,NY417,Dolgeville Housing Authority,36043,20.0,75.0,382.0
+2021,NY421,Town of Hadley,36091,33.0,91.0,718.0
+2021,NY422,Town of Guilderland,36091,110.0,85.0,727.0
+2021,NY424,Town of Wilton,36091,31.0,84.0,488.0
+2021,NY427,Town of Bethlehem,36091,59.0,92.0,716.0
+2021,NY428,Town of Duanesburg,36091,15.0,73.0,746.0
+2021,NY430,Town of Niskayuna,36091,46.0,93.0,1242.0
+2021,NY431,Town of Schodack,36091,43.0,53.0,691.0
+2021,NY433,City of Johnstown,36091,132.0,69.0,443.0
+2021,NY443,City of Utica,36065,1285.0,91.0,514.0
+2021,NY447,Town of Knox,36091,20.0,60.0,665.0
+2021,NY449,Buffalo Municipal Housing Authority,36029,972.0,73.0,540.0
+2021,NY501,Hoosick Housing Authority,36083,215.0,59.0,650.0
+2021,NY503,Town of Waterford,36091,45.0,91.0,743.0
+2021,NY504,City of Fulton,36075,481.0,85.0,482.0
+2021,NY505,Town of Union Community Development,36007,522.0,57.0,372.0
+2021,NY512,Village of Scotia,36091,106.0,88.0,691.0
+2021,NY513,Town of Glenville,36091,60.0,77.0,728.0
+2021,NY516,Town of Rotterdam,36091,245.0,89.0,736.0
+2021,NY519,Town of Corinth,36091,28.0,96.0,674.0
+2021,NY521,Canastota Housing Authority,36053,135.0,53.0,408.0
+2021,NY527,Village of Manlius,36067,1326.0,87.0,439.0
+2021,NY529,Town of Saugerties P H A,36111,180.0,84.0,614.0
+2021,NY530,Fort Plain Housing Agency,36091,242.0,64.0,440.0
+2021,NY532,Village of Cobleskill,36095,263.0,97.0,527.0
+2021,NY534,Boonville Housing Authority,36065,30.0,67.0,340.0
+2021,NY535,Village of Green Island,36001,46.0,83.0,1265.0
+2021,NY538,Village of Corinth,36091,91.0,73.0,770.0
+2021,NY541,Village of Walton,36025,409.0,68.0,371.0
+2021,NY552,Village of New Hartford,36065,414.0,63.0,610.0
+2021,NY557,Town of Coeymans,36091,81.0,98.0,582.0
+2021,NY561,Town of Stillwater,36091,129.0,74.0,755.0
+2021,NY562,Village of Ballston Spa,36091,159.0,79.0,643.0
+2021,NY564,Town of Nassau,36091,31.0,68.0,630.0
+2021,NY630,Village of Waterford,36091,55.0,73.0,719.0
+2021,NY888,Mercy Haven Inc.,36103,75.0,87.0,1437.0
+2021,NY889,Southern Tier Environments for Living,36013,25.0,100.0,286.0
+2021,NY891,Options for Community Living,36103,75.0,85.0,1417.0
+2021,NY895,Community Development Corp of Long Island,36103,125.0,93.0,1521.0
+2021,NY904,NYS Housing Trust Fund Corporation,36061,49934.0,89.0,1075.0
+2022,NY001,Syracuse Housing Authority,36067,4214.0,86.0,665.0
+2022,NY002,Buffalo Municipal Housing Authority,36029,607.0,81.0,614.0
+2022,NY003,The Municipal Hsng Authority City Yonkers,36119,5133.0,85.0,1134.0
+2022,NY005,New York City Housing Authority,36061,109524.0,84.0,1298.0
+2022,NY006,Utica Housing Authority,36065,369.0,58.0,825.0
+2022,NY009,Albany Housing Authority,36001,3505.0,90.0,584.0
+2022,NY012,Troy Housing Authority,36083,2116.0,77.0,668.0
+2022,NY015,Mechanicville Housing Authority,36091,344.0,79.0,533.0
+2022,NY016,Binghamton Housing Authority,36007,836.0,71.0,551.0
+2022,NY017,Jamestown Housing Authority,36013,272.0,87.0,424.0
+2022,NY018,Plattsburgh Housing Authority,36019,220.0,89.0,495.0
+2022,NY019,Herkimer Housing Authority,36043,191.0,,
+2022,NY020,Saratoga Springs Housing Authority,36091,230.0,83.0,750.0
+2022,NY021,Cortland Housing Authority,36109,306.0,92.0,516.0
+2022,NY022,Cohoes Housing Authority,36001,388.0,53.0,628.0
+2022,NY023,Freeport Housing Authority,36059,315.0,59.0,1775.0
+2022,NY025,Watervliet Housing Authority,36001,219.0,79.0,575.0
+2022,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,85.0,567.0
+2022,NY028,Schenectady Municipal Housing Authority,36093,1705.0,81.0,699.0
+2022,NY033,Rensselaer Housing Authority,36083,102.0,70.0,770.0
+2022,NY034,Rome Housing Authority,36065,837.0,58.0,342.0
+2022,NY035,Town of Huntington Housing Authority,36103,573.0,54.0,1712.0
+2022,NY038,Mount Kisco Housing Authority,36119,113.0,72.0,1122.0
+2022,NY041,Rochester Housing Authority,36055,10223.0,83.0,659.0
+2022,NY042,White Plains Housing Authority,36119,811.0,85.0,1041.0
+2022,NY044,Geneva Housing Authority,36069,30.0,,
+2022,NY045,Kingston Housing Authority,36111,363.0,,
+2022,NY048,Gloversville Housing Authority,36035,255.0,82.0,541.0
+2022,NY049,The City of Beacon Housing Authority,36027,639.0,72.0,1040.0
+2022,NY050,Housing Authority of Long Beach,36059,394.0,68.0,1412.0
+2022,NY051,Housing Authority of Newburgh,36071,436.0,59.0,985.0
+2022,NY054,Ithaca Housing Authority,36109,1087.0,92.0,926.0
+2022,NY057,Greenburgh Housing Authority,36119,421.0,71.0,1182.0
+2022,NY059,Ilion Housing Authority,36043,154.0,82.0,426.0
+2022,NY060,Amsterdam Housing Authority,36057,523.0,88.0,574.0
+2022,NY061,Hudson Housing Authority,36021,269.0,68.0,399.0
+2022,NY062,Poughkeepsie Housing Authority,36027,169.0,91.0,764.0
+2022,NY065,Norwich Housing Authority,36017,207.0,60.0,484.0
+2022,NY066,Auburn Housing Authority,36011,437.0,82.0,554.0
+2022,NY067,Hornell Housing Authority,36101,284.0,80.0,427.0
+2022,NY068,Oneonta Housing Authority,36077,84.0,76.0,544.0
+2022,NY070,Lockport Housing Authority,36063,192.0,86.0,460.0
+2022,NY071,Monticello Housing Authority,36105,558.0,52.0,705.0
+2022,NY077,Town of Islip Housing Authority,36103,1465.0,81.0,1254.0
+2022,NY079,Glens Falls Housing Authority,36113,993.0,101.0,597.0
+2022,NY084,Town of Ramapo Housing Authority,36087,848.0,88.0,1854.0
+2022,NY085,Village of Hempstead HA,36059,475.0,72.0,1521.0
+2022,NY086,North Hempstead Housing Authority,36059,443.0,85.0,1159.0
+2022,NY087,Harrietstown Housing Authority,36033,135.0,89.0,339.0
+2022,NY088,New Rochelle Housing Authority,36119,605.0,92.0,919.0
+2022,NY089,Newark Housing Authority,36117,537.0,95.0,400.0
+2022,NY091,Town of Amherst,36029,5576.0,73.0,657.0
+2022,NY094,Village of Ossining Section 8 Program,36119,258.0,83.0,1220.0
+2022,NY098,St. Johnsville Housing Authority,36057,218.0,86.0,288.0
+2022,NY102,Oneida Housing Authority,36053,251.0,92.0,366.0
+2022,NY103,Ellenville Housing Authority,36111,147.0,82.0,849.0
+2022,NY107,Village of North Syracuse Housing Authority,36067,287.0,84.0,464.0
+2022,NY109,Little Falls Housing Authority,36043,145.0,66.0,384.0
+2022,NY110,NYC Dept of Housing Preservation and Dev,36061,37960.0,99.0,917.0
+2022,NY113,City of New Rochelle Housing Authority,36119,1165.0,66.0,1138.0
+2022,NY114,Village of Nyack HA,36087,241.0,69.0,1271.0
+2022,NY117,Town of Mamaroneck Housing Voucher Program,36119,653.0,68.0,1232.0
+2022,NY121,Glen Cove Community Development Agency,36059,340.0,82.0,1518.0
+2022,NY123,City of Peekskill,36119,731.0,80.0,1171.0
+2022,NY125,Village of Highland Falls,36091,84.0,64.0,1111.0
+2022,NY127,Riverhead Housing Development Corproration,36103,200.0,72.0,1314.0
+2022,NY128,Village of Patchogue CDA,36103,177.0,83.0,1492.0
+2022,NY130,Town of Babylon,36103,888.0,91.0,1562.0
+2022,NY132,Town of Yorktown,36119,156.0,78.0,953.0
+2022,NY134,Port Jervis CDA,36071,370.0,,
+2022,NY137,City of Poughkeepsie,36027,1033.0,72.0,697.0
+2022,NY138,Village of New Square PHA,36087,675.0,86.0,1696.0
+2022,NY141,Town of Southampton,36103,326.0,,
+2022,NY146,Village of Greenport Housing Authority,36103,90.0,83.0,1370.0
+2022,NY148,Village of Spring Valley HA,36087,822.0,63.0,1753.0
+2022,NY149,Town of Brookhaven Dept. of Hsg & Comm Dev,36103,1053.0,77.0,1806.0
+2022,NY152,North Fork Hsg Alliance Inc,36103,289.0,,
+2022,NY154,Town of East Hampton,36103,193.0,,
+2022,NY158,Village of Kiryas Joel HA,36071,481.0,80.0,2091.0
+2022,NY159,Village of Rockville Centre,36059,307.0,59.0,1288.0
+2022,NY160,Village of Kaser,36087,110.0,82.0,2937.0
+2022,NY165,"Tuckahoe HA, Village of",36119,175.0,95.0,1165.0
+2022,NY402,Village of Elmira Heights,36015,97.0,72.0,468.0
+2022,NY403,City of Salamanca,36009,177.0,75.0,389.0
+2022,NY404,City of Niagara Falls,36063,973.0,64.0,734.0
+2022,NY405,City of North Tonawanda,36029,657.0,83.0,526.0
+2022,NY406,Village of Fairport,36055,497.0,81.0,534.0
+2022,NY408,Town of Colonie,36091,440.0,80.0,773.0
+2022,NY409,City of Buffalo,36029,5314.0,87.0,638.0
+2022,NY413,Village of Canajoharie,36057,63.0,71.0,451.0
+2022,NY416,Town of Clifton Park,36091,62.0,87.0,1052.0
+2022,NY417,Dolgeville Housing Authority,36043,23.0,74.0,460.0
+2022,NY421,Town of Hadley,36091,36.0,75.0,910.0
+2022,NY422,Town of Guilderland,36091,114.0,78.0,913.0
+2022,NY424,Town of Wilton,36091,34.0,91.0,584.0
+2022,NY427,Town of Bethlehem,36091,63.0,79.0,772.0
+2022,NY428,Town of Duanesburg,36091,18.0,83.0,739.0
+2022,NY430,Town of Niskayuna,36091,49.0,82.0,1256.0
+2022,NY431,Town of Schodack,36091,46.0,57.0,761.0
+2022,NY433,City of Johnstown,36091,135.0,76.0,465.0
+2022,NY443,City of Utica,36065,1292.0,88.0,551.0
+2022,NY447,Town of Knox,36091,23.0,,
+2022,NY449,Buffalo Municipal Housing Authority,36029,978.0,79.0,590.0
+2022,NY501,Hoosick Housing Authority,36083,218.0,63.0,706.0
+2022,NY503,Town of Waterford,36091,45.0,89.0,753.0
+2022,NY504,City of Fulton,36075,485.0,81.0,517.0
+2022,NY505,Town of Union Community Development,36007,528.0,55.0,396.0
+2022,NY512,Village of Scotia,36091,110.0,89.0,776.0
+2022,NY513,Town of Glenville,36091,63.0,75.0,744.0
+2022,NY516,Town of Rotterdam,36091,249.0,86.0,841.0
+2022,NY519,Town of Corinth,36091,31.0,90.0,723.0
+2022,NY521,Canastota Housing Authority,36053,139.0,,
+2022,NY527,Village of Manlius,36067,1334.0,83.0,419.0
+2022,NY529,Town of Saugerties P H A,36111,183.0,75.0,734.0
+2022,NY530,Fort Plain Housing Agency,36091,246.0,62.0,489.0
+2022,NY532,Village of Cobleskill,36095,267.0,87.0,601.0
+2022,NY534,Boonville Housing Authority,36065,33.0,58.0,348.0
+2022,NY535,Village of Green Island,36001,49.0,78.0,1229.0
+2022,NY538,Village of Corinth,36091,94.0,67.0,833.0
+2022,NY541,Village of Walton,36025,413.0,68.0,433.0
+2022,NY552,Village of New Hartford,36065,419.0,55.0,486.0
+2022,NY557,Town of Coeymans,36091,81.0,93.0,658.0
+2022,NY561,Town of Stillwater,36091,132.0,71.0,790.0
+2022,NY562,Village of Ballston Spa,36091,162.0,72.0,784.0
+2022,NY564,Town of Nassau,36091,34.0,53.0,895.0
+2022,NY630,Village of Waterford,36091,58.0,66.0,779.0
+2022,NY888,Mercy Haven Inc.,36103,75.0,87.0,1412.0
+2022,NY889,Southern Tier Environments for Living,36013,25.0,96.0,306.0
+2022,NY891,Options for Community Living,36103,75.0,81.0,1432.0
+2022,NY895,Community Development Corp of Long Island,36103,125.0,89.0,1518.0
+2022,NY904,NYS Housing Trust Fund Corporation,36061,50390.0,87.0,1186.0
+2023,NY001,Syracuse Housing Authority,36067,4237.0,83.0,763.0
+2023,NY002,Buffalo Municipal Housing Authority,36029,617.0,83.0,709.0
+2023,NY003,The Municipal Hsng Authority City Yonkers,36119,5133.0,86.0,1104.0
+2023,NY005,New York City Housing Authority,36061,112223.0,85.0,1489.0
+2023,NY006,Utica Housing Authority,36065,369.0,61.0,832.0
+2023,NY009,Albany Housing Authority,36001,3756.0,65.0,710.0
+2023,NY012,Troy Housing Authority,36083,2123.0,78.0,698.0
+2023,NY015,Mechanicville Housing Authority,36091,344.0,83.0,605.0
+2023,NY016,Binghamton Housing Authority,36007,845.0,72.0,621.0
+2023,NY017,Jamestown Housing Authority,36013,272.0,93.0,462.0
+2023,NY018,Plattsburgh Housing Authority,36019,220.0,90.0,489.0
+2023,NY019,Herkimer Housing Authority,36043,196.0,,
+2023,NY020,Saratoga Springs Housing Authority,36091,266.0,89.0,880.0
+2023,NY021,Cortland Housing Authority,36109,306.0,96.0,530.0
+2023,NY022,Cohoes Housing Authority,36001,401.0,57.0,666.0
+2023,NY023,Freeport Housing Authority,36059,315.0,64.0,1901.0
+2023,NY025,Watervliet Housing Authority,36001,219.0,77.0,590.0
+2023,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,83.0,643.0
+2023,NY028,Schenectady Municipal Housing Authority,36093,1705.0,84.0,851.0
+2023,NY033,Rensselaer Housing Authority,36083,102.0,69.0,731.0
+2023,NY034,Rome Housing Authority,36065,837.0,63.0,378.0
+2023,NY035,Town of Huntington Housing Authority,36103,573.0,53.0,1632.0
+2023,NY038,Mount Kisco Housing Authority,36119,188.0,,
+2023,NY041,Rochester Housing Authority,36055,10334.0,81.0,748.0
+2023,NY042,White Plains Housing Authority,36119,811.0,95.0,1083.0
+2023,NY044,Geneva Housing Authority,36069,30.0,,
+2023,NY045,Kingston Housing Authority,36111,525.0,52.0,970.0
+2023,NY048,Gloversville Housing Authority,36035,255.0,79.0,567.0
+2023,NY049,The City of Beacon Housing Authority,36027,653.0,71.0,1093.0
+2023,NY050,Housing Authority of Long Beach,36059,394.0,64.0,1683.0
+2023,NY051,Housing Authority of Newburgh,36071,436.0,54.0,882.0
+2023,NY054,Ithaca Housing Authority,36109,1093.0,96.0,978.0
+2023,NY057,Greenburgh Housing Authority,36119,421.0,75.0,1162.0
+2023,NY059,Ilion Housing Authority,36043,154.0,88.0,476.0
+2023,NY060,Amsterdam Housing Authority,36057,523.0,92.0,627.0
+2023,NY061,Hudson Housing Authority,36021,269.0,56.0,485.0
+2023,NY062,Poughkeepsie Housing Authority,36027,169.0,85.0,852.0
+2023,NY065,Norwich Housing Authority,36017,207.0,60.0,536.0
+2023,NY066,Auburn Housing Authority,36011,437.0,83.0,605.0
+2023,NY067,Hornell Housing Authority,36101,284.0,79.0,427.0
+2023,NY068,Oneonta Housing Authority,36077,84.0,77.0,619.0
+2023,NY070,Lockport Housing Authority,36063,192.0,85.0,501.0
+2023,NY071,Monticello Housing Authority,36105,558.0,,
+2023,NY077,Town of Islip Housing Authority,36103,1465.0,78.0,1450.0
+2023,NY079,Glens Falls Housing Authority,36113,1173.0,94.0,638.0
+2023,NY084,Town of Ramapo Housing Authority,36087,848.0,96.0,1953.0
+2023,NY085,Village of Hempstead HA,36059,475.0,71.0,1497.0
+2023,NY086,North Hempstead Housing Authority,36059,443.0,88.0,1303.0
+2023,NY087,Harrietstown Housing Authority,36033,135.0,84.0,347.0
+2023,NY088,New Rochelle Housing Authority,36119,605.0,94.0,1024.0
+2023,NY089,Newark Housing Authority,36117,537.0,89.0,440.0
+2023,NY091,Town of Amherst,36029,5577.0,70.0,730.0
+2023,NY094,Village of Ossining Section 8 Program,36119,258.0,81.0,1306.0
+2023,NY098,St. Johnsville Housing Authority,36057,218.0,85.0,296.0
+2023,NY102,Oneida Housing Authority,36053,251.0,91.0,412.0
+2023,NY103,Ellenville Housing Authority,36111,147.0,80.0,947.0
+2023,NY107,Village of North Syracuse Housing Authority,36067,287.0,90.0,516.0
+2023,NY109,Little Falls Housing Authority,36043,145.0,59.0,393.0
+2023,NY110,NYC Dept of Housing Preservation and Dev,36061,38472.0,96.0,1052.0
+2023,NY113,City of New Rochelle Housing Authority,36119,1165.0,66.0,1179.0
+2023,NY114,Village of Nyack HA,36087,241.0,68.0,1412.0
+2023,NY121,Glen Cove Community Development Agency,36059,340.0,84.0,1690.0
+2023,NY123,City of Peekskill,36119,731.0,78.0,1265.0
+2023,NY125,Village of Highland Falls,36091,84.0,58.0,1107.0
+2023,NY127,Riverhead Housing Development Corproration,36103,200.0,66.0,1390.0
+2023,NY128,Village of Patchogue CDA,36103,177.0,81.0,1710.0
+2023,NY130,Town of Babylon,36103,894.0,89.0,1734.0
+2023,NY132,Town of Yorktown,36119,156.0,77.0,1113.0
+2023,NY134,Port Jervis CDA,36071,370.0,,
+2023,NY137,City of Poughkeepsie,36027,1033.0,69.0,742.0
+2023,NY138,Village of New Square PHA,36087,675.0,88.0,1952.0
+2023,NY141,Town of Southampton,36103,326.0,,
+2023,NY146,Village of Greenport Housing Authority,36103,90.0,79.0,1632.0
+2023,NY148,Village of Spring Valley HA,36087,822.0,67.0,1977.0
+2023,NY149,Town of Brookhaven Dept. of Hsg & Comm Dev,36103,1053.0,83.0,2050.0
+2023,NY152,North Fork Hsg Alliance Inc,36103,289.0,,
+2023,NY154,Town of East Hampton,36103,193.0,,
+2023,NY158,Village of Kiryas Joel HA,36071,481.0,83.0,2266.0
+2023,NY159,Village of Rockville Centre,36059,307.0,59.0,1410.0
+2023,NY160,Village of Kaser,36087,120.0,78.0,3225.0
+2023,NY165,"Tuckahoe HA, Village of",36119,175.0,93.0,1205.0
+2023,NY402,Village of Elmira Heights,36015,97.0,70.0,491.0
+2023,NY403,City of Salamanca,36009,177.0,82.0,414.0
+2023,NY404,City of Niagara Falls,36063,973.0,67.0,641.0
+2023,NY405,City of North Tonawanda,36029,657.0,77.0,597.0
+2023,NY406,Village of Fairport,36055,497.0,77.0,677.0
+2023,NY408,Town of Colonie,36091,440.0,83.0,824.0
+2023,NY409,City of Buffalo,36029,5326.0,86.0,738.0
+2023,NY413,Village of Canajoharie,36057,63.0,60.0,520.0
+2023,NY416,Town of Clifton Park,36091,62.0,90.0,1237.0
+2023,NY417,Dolgeville Housing Authority,36043,23.0,87.0,438.0
+2023,NY421,Town of Hadley,36091,36.0,83.0,814.0
+2023,NY422,Town of Guilderland,36091,114.0,85.0,919.0
+2023,NY424,Town of Wilton,36091,34.0,94.0,535.0
+2023,NY427,Town of Bethlehem,36091,63.0,89.0,771.0
+2023,NY428,Town of Duanesburg,36091,18.0,61.0,718.0
+2023,NY430,Town of Niskayuna,36091,49.0,90.0,1612.0
+2023,NY431,Town of Schodack,36091,46.0,,
+2023,NY433,City of Johnstown,36091,135.0,79.0,491.0
+2023,NY443,City of Utica,36065,1292.0,88.0,628.0
+2023,NY447,Town of Knox,36091,23.0,52.0,716.0
+2023,NY449,Buffalo Municipal Housing Authority,36029,978.0,79.0,660.0
+2023,NY501,Hoosick Housing Authority,36083,218.0,61.0,772.0
+2023,NY503,Town of Waterford,36091,45.0,91.0,854.0
+2023,NY504,City of Fulton,36075,485.0,81.0,653.0
+2023,NY505,Town of Union Community Development,36007,528.0,60.0,458.0
+2023,NY512,Village of Scotia,36091,110.0,91.0,734.0
+2023,NY513,Town of Glenville,36091,63.0,83.0,757.0
+2023,NY516,Town of Rotterdam,36091,249.0,91.0,835.0
+2023,NY519,Town of Corinth,36091,31.0,84.0,753.0
+2023,NY521,Canastota Housing Authority,36053,139.0,53.0,465.0
+2023,NY527,Village of Manlius,36067,1334.0,78.0,486.0
+2023,NY529,Town of Saugerties P H A,36111,183.0,70.0,945.0
+2023,NY530,Fort Plain Housing Agency,36091,246.0,62.0,514.0
+2023,NY532,Village of Cobleskill,36095,268.0,99.0,581.0
+2023,NY534,Boonville Housing Authority,36065,33.0,,
+2023,NY535,Village of Green Island,36001,49.0,94.0,1070.0
+2023,NY538,Village of Corinth,36091,94.0,63.0,856.0
+2023,NY541,Village of Walton,36025,413.0,72.0,504.0
+2023,NY552,Village of New Hartford,36065,419.0,54.0,502.0
+2023,NY557,Town of Coeymans,36091,81.0,89.0,806.0
+2023,NY561,Town of Stillwater,36091,138.0,69.0,861.0
+2023,NY562,Village of Ballston Spa,36091,162.0,72.0,821.0
+2023,NY564,Town of Nassau,36091,34.0,65.0,821.0
+2023,NY630,Village of Waterford,36091,58.0,79.0,791.0
+2023,NY888,Mercy Haven Inc.,36103,75.0,87.0,1658.0
+2023,NY889,Southern Tier Environments for Living,36013,25.0,100.0,341.0
+2023,NY891,Options for Community Living,36103,75.0,85.0,1609.0
+2023,NY895,Community Development Corp of Long Island,36103,125.0,88.0,1616.0
+2023,NY904,NYS Housing Trust Fund Corporation,36061,51383.0,91.0,1411.0
+2024,NY001,Syracuse Housing Authority,36067,4244.0,83.0,797.0
+2024,NY002,Buffalo Municipal Housing Authority,36029,617.0,82.0,813.0
+2024,NY003,The Municipal Hsng Authority City Yonkers,36119,5133.0,86.0,1259.0
+2024,NY005,New York City Housing Authority,36061,112531.0,86.0,1773.0
+2024,NY006,Utica Housing Authority,36065,369.0,62.0,833.0
+2024,NY009,Albany Housing Authority,36001,3756.0,66.0,842.0
+2024,NY012,Troy Housing Authority,36083,2123.0,77.0,706.0
+2024,NY015,Mechanicville Housing Authority,36091,344.0,81.0,720.0
+2024,NY016,Binghamton Housing Authority,36007,845.0,71.0,663.0
+2024,NY017,Jamestown Housing Authority,36013,272.0,93.0,467.0
+2024,NY018,Plattsburgh Housing Authority,36019,220.0,90.0,585.0
+2024,NY019,Herkimer Housing Authority,36043,226.0,91.0,583.0
+2024,NY020,Saratoga Springs Housing Authority,36091,337.0,81.0,748.0
+2024,NY021,Cortland Housing Authority,36109,306.0,96.0,532.0
+2024,NY022,Cohoes Housing Authority,36001,401.0,57.0,686.0
+2024,NY023,Freeport Housing Authority,36059,315.0,63.0,1894.0
+2024,NY025,Watervliet Housing Authority,36001,219.0,74.0,646.0
+2024,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,84.0,694.0
+2024,NY028,Schenectady Municipal Housing Authority,36093,1705.0,85.0,900.0
+2024,NY033,Rensselaer Housing Authority,36083,102.0,71.0,916.0
+2024,NY034,Rome Housing Authority,36065,852.0,65.0,411.0
+2024,NY035,Town of Huntington Housing Authority,36103,573.0,51.0,1750.0
+2024,NY038,Mount Kisco Housing Authority,36119,188.0,78.0,1514.0
+2024,NY041,Rochester Housing Authority,36055,10394.0,80.0,864.0
+2024,NY042,White Plains Housing Authority,36119,811.0,94.0,1048.0
+2024,NY044,Geneva Housing Authority,36069,30.0,,
+2024,NY045,Kingston Housing Authority,36111,525.0,55.0,1035.0
+2024,NY048,Gloversville Housing Authority,36035,255.0,78.0,578.0
+2024,NY049,The City of Beacon Housing Authority,36027,653.0,70.0,1227.0
+2024,NY050,Housing Authority of Long Beach,36059,394.0,63.0,1718.0
+2024,NY051,Housing Authority of Newburgh,36071,436.0,51.0,954.0
+2024,NY054,Ithaca Housing Authority,36109,1152.0,90.0,999.0
+2024,NY057,Greenburgh Housing Authority,36119,421.0,76.0,1490.0
+2024,NY059,Ilion Housing Authority,36043,154.0,86.0,481.0
+2024,NY060,Amsterdam Housing Authority,36057,529.0,94.0,622.0
+2024,NY061,Hudson Housing Authority,36021,269.0,55.0,590.0
+2024,NY062,Poughkeepsie Housing Authority,36027,169.0,86.0,876.0
+2024,NY065,Norwich Housing Authority,36017,207.0,62.0,509.0
+2024,NY066,Auburn Housing Authority,36011,437.0,82.0,586.0
+2024,NY067,Hornell Housing Authority,36101,284.0,77.0,463.0
+2024,NY068,Oneonta Housing Authority,36077,84.0,76.0,668.0
+2024,NY070,Lockport Housing Authority,36063,192.0,,
+2024,NY071,Monticello Housing Authority,36105,558.0,,
+2024,NY077,Town of Islip Housing Authority,36103,1395.0,82.0,1527.0
+2024,NY079,Glens Falls Housing Authority,36113,1173.0,94.0,698.0
+2024,NY084,Town of Ramapo Housing Authority,36087,848.0,96.0,2270.0
+2024,NY085,Village of Hempstead HA,36059,475.0,72.0,1785.0
+2024,NY086,North Hempstead Housing Authority,36059,443.0,88.0,1288.0
+2024,NY087,Harrietstown Housing Authority,36033,135.0,88.0,341.0
+2024,NY088,New Rochelle Housing Authority,36119,605.0,94.0,1117.0
+2024,NY089,Newark Housing Authority,36117,537.0,92.0,526.0
+2024,NY091,Town of Amherst,36029,5586.0,72.0,752.0
+2024,NY094,Village of Ossining Section 8 Program,36119,258.0,83.0,1351.0
+2024,NY098,St. Johnsville Housing Authority,36057,218.0,86.0,272.0
+2024,NY102,Oneida Housing Authority,36053,251.0,93.0,444.0
+2024,NY103,Ellenville Housing Authority,36111,147.0,80.0,936.0
+2024,NY107,Village of North Syracuse Housing Authority,36067,287.0,87.0,549.0
+2024,NY109,Little Falls Housing Authority,36043,145.0,60.0,352.0
+2024,NY110,NYC Dept of Housing Preservation and Dev,36061,41740.0,89.0,1401.0
+2024,NY113,City of New Rochelle Housing Authority,36119,1165.0,66.0,1363.0
+2024,NY114,Village of Nyack HA,36087,241.0,68.0,1599.0
+2024,NY121,Glen Cove Community Development Agency,36059,340.0,84.0,1762.0
+2024,NY123,City of Peekskill,36119,731.0,78.0,1373.0
+2024,NY125,Village of Highland Falls,36091,84.0,63.0,1251.0
+2024,NY127,Riverhead Housing Development Corproration,36103,200.0,66.0,1457.0
+2024,NY128,Village of Patchogue CDA,36103,177.0,80.0,1649.0
+2024,NY130,Town of Babylon,36103,894.0,89.0,1861.0
+2024,NY132,Town of Yorktown,36119,156.0,81.0,1219.0
+2024,NY134,Port Jervis CDA,36071,370.0,,
+2024,NY137,City of Poughkeepsie,36027,1033.0,69.0,806.0
+2024,NY138,Village of New Square PHA,36087,675.0,89.0,2160.0
+2024,NY141,Town of Southampton,36103,326.0,,
+2024,NY146,Village of Greenport Housing Authority,36103,90.0,81.0,1622.0
+2024,NY148,Village of Spring Valley HA,36087,822.0,68.0,2216.0
+2024,NY149,Town of Brookhaven Dept. of Hsg & Comm Dev,36103,1053.0,84.0,2122.0
+2024,NY152,North Fork Hsg Alliance Inc,36103,289.0,,
+2024,NY154,Town of East Hampton,36103,193.0,,
+2024,NY158,Village of Kiryas Joel HA,36071,481.0,83.0,2405.0
+2024,NY159,Village of Rockville Centre,36059,307.0,59.0,1505.0
+2024,NY160,Village of Kaser,36087,120.0,78.0,3963.0
+2024,NY165,"Tuckahoe HA, Village of",36119,175.0,92.0,1386.0
+2024,NY402,Village of Elmira Heights,36015,97.0,71.0,531.0
+2024,NY403,City of Salamanca,36009,177.0,75.0,415.0
+2024,NY404,City of Niagara Falls,36063,977.0,65.0,679.0
+2024,NY405,City of North Tonawanda,36029,657.0,79.0,573.0
+2024,NY406,Village of Fairport,36055,497.0,82.0,741.0
+2024,NY408,Town of Colonie,36091,440.0,82.0,856.0
+2024,NY409,City of Buffalo,36029,5329.0,89.0,773.0
+2024,NY413,Village of Canajoharie,36091,63.0,60.0,711.0
+2024,NY416,Town of Clifton Park,36091,62.0,92.0,1497.0
+2024,NY417,Dolgeville Housing Authority,36043,23.0,96.0,521.0
+2024,NY421,Town of Hadley,36091,36.0,83.0,903.0
+2024,NY422,Town of Guilderland,36091,114.0,88.0,940.0
+2024,NY424,Town of Wilton,36091,34.0,97.0,514.0
+2024,NY427,Town of Bethlehem,36091,63.0,89.0,777.0
+2024,NY428,Town of Duanesburg,36091,18.0,72.0,819.0
+2024,NY430,Town of Niskayuna,36091,49.0,92.0,1669.0
+2024,NY431,Town of Schodack,36091,46.0,52.0,877.0
+2024,NY433,City of Johnstown,36091,144.0,78.0,534.0
+2024,NY443,City of Utica,36065,1292.0,96.0,641.0
+2024,NY447,Town of Knox,36091,23.0,,
+2024,NY449,Buffalo Municipal Housing Authority,36029,978.0,81.0,763.0
+2024,NY501,Hoosick Housing Authority,36083,218.0,63.0,763.0
+2024,NY503,Town of Waterford,36091,45.0,98.0,781.0
+2024,NY504,City of Fulton,36075,485.0,87.0,583.0
+2024,NY505,Town of Union Community Development,36007,528.0,60.0,533.0
+2024,NY512,Village of Scotia,36091,110.0,89.0,791.0
+2024,NY513,Town of Glenville,36091,63.0,87.0,788.0
+2024,NY516,Town of Rotterdam,36091,249.0,93.0,799.0
+2024,NY519,Town of Corinth,36091,31.0,94.0,779.0
+2024,NY521,Canastota Housing Authority,36053,139.0,55.0,487.0
+2024,NY527,Village of Manlius,36067,1334.0,78.0,583.0
+2024,NY529,Town of Saugerties P H A,36111,183.0,74.0,872.0
+2024,NY530,Fort Plain Housing Agency,36091,246.0,64.0,553.0
+2024,NY532,Village of Cobleskill,36095,268.0,98.0,638.0
+2024,NY534,Boonville Housing Authority,36065,33.0,,
+2024,NY535,Village of Green Island,36091,49.0,94.0,1252.0
+2024,NY538,Village of Corinth,36091,94.0,65.0,896.0
+2024,NY541,Village of Walton,36025,413.0,71.0,488.0
+2024,NY552,Village of New Hartford,36065,419.0,55.0,539.0
+2024,NY557,Town of Coeymans,36091,81.0,89.0,862.0
+2024,NY561,Town of Stillwater,36091,138.0,70.0,944.0
+2024,NY562,Village of Ballston Spa,36091,162.0,70.0,900.0
+2024,NY564,Town of Nassau,36091,34.0,65.0,859.0
+2024,NY630,Village of Waterford,36091,58.0,81.0,717.0
+2024,NY888,Mercy Haven Inc.,36103,75.0,88.0,1859.0
+2024,NY889,Southern Tier Environments for Living,36013,25.0,100.0,379.0
+2024,NY891,Options for Community Living,36103,75.0,88.0,1813.0
+2024,NY895,Community Development Corp of Long Island,36103,125.0,88.0,1817.0
+2024,NY904,NYS Housing Trust Fund Corporation,36061,51792.0,90.0,1457.0
+2025,NY001,Syracuse Housing Authority,36067,4300.0,79.0,915.0
+2025,NY002,Buffalo Municipal Housing Authority,36029,617.0,80.0,1832.0
+2025,NY003,The Municipal Hsng Authority City Yonkers,36119,5133.0,90.0,1383.0
+2025,NY005,New York City Housing Authority,36061,119656.0,87.0,1937.0
+2025,NY006,Utica Housing Authority,36065,369.0,60.0,919.0
+2025,NY009,Albany Housing Authority,36001,4077.0,61.0,853.0
+2025,NY012,Troy Housing Authority,36083,2123.0,80.0,813.0
+2025,NY015,Mechanicville Housing Authority,36091,345.0,86.0,727.0
+2025,NY016,Binghamton Housing Authority,36007,845.0,75.0,674.0
+2025,NY017,Jamestown Housing Authority,36013,272.0,88.0,502.0
+2025,NY018,Plattsburgh Housing Authority,36019,220.0,98.0,607.0
+2025,NY019,Herkimer Housing Authority,36043,221.0,93.0,516.0
+2025,NY020,Saratoga Springs Housing Authority,36091,337.0,83.0,793.0
+2025,NY021,Cortland Housing Authority,36109,306.0,92.0,603.0
+2025,NY022,Cohoes Housing Authority,36001,401.0,55.0,722.0
+2025,NY023,Freeport Housing Authority,36059,315.0,66.0,1968.0
+2025,NY025,Watervliet Housing Authority,36001,219.0,77.0,664.0
+2025,NY027,"City of Oswego, Office of Community Dev.",36075,489.0,81.0,770.0
+2025,NY028,Schenectady Municipal Housing Authority,36093,1705.0,82.0,954.0
+2025,NY033,Rensselaer Housing Authority,36083,103.0,71.0,897.0
+2025,NY034,Rome Housing Authority,36065,855.0,64.0,506.0
+2025,NY035,Town of Huntington Housing Authority,36103,573.0,,
+2025,NY038,Mount Kisco Housing Authority,36119,188.0,79.0,1725.0
+2025,NY041,Rochester Housing Authority,36055,10495.0,82.0,972.0
+2025,NY042,White Plains Housing Authority,36119,811.0,92.0,1115.0
+2025,NY044,Geneva Housing Authority,36069,30.0,,
+2025,NY045,Kingston Housing Authority,36111,525.0,53.0,1025.0
+2025,NY048,Gloversville Housing Authority,36035,255.0,77.0,553.0
+2025,NY049,The City of Beacon Housing Authority,36027,653.0,71.0,1288.0
+2025,NY050,Housing Authority of Long Beach,36059,394.0,66.0,2106.0
+2025,NY051,Housing Authority of Newburgh,36071,436.0,50.0,1025.0
+2025,NY054,Ithaca Housing Authority,36109,1152.0,90.0,1070.0
+2025,NY057,Greenburgh Housing Authority,36119,421.0,71.0,1549.0
+2025,NY059,Ilion Housing Authority,36043,154.0,76.0,484.0
+2025,NY060,Amsterdam Housing Authority,36057,529.0,101.0,641.0
+2025,NY061,Hudson Housing Authority,36021,269.0,50.0,654.0
+2025,NY062,Poughkeepsie Housing Authority,36027,169.0,90.0,939.0
+2025,NY065,Norwich Housing Authority,36017,207.0,55.0,602.0
+2025,NY066,Auburn Housing Authority,36011,437.0,85.0,624.0
+2025,NY067,Hornell Housing Authority,36101,284.0,81.0,477.0
+2025,NY068,Oneonta Housing Authority,36077,84.0,73.0,643.0
+2025,NY070,Lockport Housing Authority,36063,192.0,91.0,476.0
+2025,NY071,Monticello Housing Authority,36105,558.0,,
+2025,NY077,Town of Islip Housing Authority,36103,1465.0,78.0,1414.0
+2025,NY079,Glens Falls Housing Authority,36113,1188.0,92.0,712.0
+2025,NY084,Town of Ramapo Housing Authority,36087,979.0,82.0,2710.0
+2025,NY085,Village of Hempstead HA,36059,475.0,84.0,1870.0
+2025,NY086,North Hempstead Housing Authority,36059,443.0,87.0,1519.0
+2025,NY087,Harrietstown Housing Authority,36033,135.0,87.0,358.0
+2025,NY088,New Rochelle Housing Authority,36119,605.0,93.0,1208.0
+2025,NY089,Newark Housing Authority,36117,537.0,96.0,547.0
+2025,NY091,Town of Amherst,36029,5601.0,71.0,785.0
+2025,NY094,Village of Ossining Section 8 Program,36119,258.0,86.0,1408.0
+2025,NY098,St. Johnsville Housing Authority,36057,218.0,88.0,281.0
+2025,NY102,Oneida Housing Authority,36053,251.0,98.0,461.0
+2025,NY103,Ellenville Housing Authority,36111,147.0,79.0,990.0
+2025,NY107,Village of North Syracuse Housing Authority,36067,287.0,86.0,618.0
+2025,NY109,Little Falls Housing Authority,36043,145.0,54.0,415.0
+2025,NY110,NYC Dept of Housing Preservation and Dev,36061,41961.0,86.0,1899.0
+2025,NY113,City of New Rochelle Housing Authority,36119,1165.0,68.0,1442.0
+2025,NY114,Village of Nyack HA,36087,241.0,63.0,1775.0
+2025,NY121,Glen Cove Community Development Agency,36059,340.0,86.0,1790.0
+2025,NY123,City of Peekskill,36119,731.0,77.0,1382.0
+2025,NY125,Village of Highland Falls,36091,84.0,67.0,1131.0
+2025,NY127,Riverhead Housing Development Corproration,36103,200.0,61.0,1465.0
+2025,NY128,Village of Patchogue CDA,36103,177.0,77.0,1888.0
+2025,NY130,Town of Babylon,36103,894.0,91.0,1113.0
+2025,NY132,Town of Yorktown,36119,156.0,81.0,1174.0
+2025,NY134,Port Jervis CDA,36071,370.0,,
+2025,NY137,City of Poughkeepsie,36027,1033.0,68.0,857.0
+2025,NY138,Village of New Square PHA,36087,675.0,88.0,2329.0
+2025,NY141,Town of Southampton,36103,326.0,,
+2025,NY146,Village of Greenport Housing Authority,36103,90.0,86.0,1456.0
+2025,NY148,Village of Spring Valley HA,36087,822.0,68.0,2223.0
+2025,NY149,Town of Brookhaven Dept. of Hsg & Comm Dev,36103,1053.0,80.0,2216.0
+2025,NY152,North Fork Hsg Alliance Inc,36103,289.0,,
+2025,NY154,Town of East Hampton,36103,193.0,,
+2025,NY158,Village of Kiryas Joel HA,36071,481.0,80.0,2857.0
+2025,NY159,Village of Rockville Centre,36059,307.0,62.0,1620.0
+2025,NY160,Village of Kaser,36087,120.0,79.0,4375.0
+2025,NY165,"Tuckahoe HA, Village of",36119,175.0,97.0,1423.0
+2025,NY402,Village of Elmira Heights,36015,97.0,73.0,567.0
+2025,NY403,City of Salamanca,36009,177.0,79.0,459.0
+2025,NY404,City of Niagara Falls,36063,977.0,63.0,684.0
+2025,NY405,City of North Tonawanda,36029,658.0,72.0,636.0
+2025,NY406,Village of Fairport,36055,497.0,85.0,778.0
+2025,NY408,Town of Colonie,36091,440.0,80.0,918.0
+2025,NY409,City of Buffalo,36029,5329.0,85.0,774.0
+2025,NY413,Village of Canajoharie,36091,63.0,59.0,686.0
+2025,NY416,Town of Clifton Park,36091,62.0,85.0,1480.0
+2025,NY417,Dolgeville Housing Authority,36043,23.0,87.0,531.0
+2025,NY421,Town of Hadley,36091,36.0,83.0,762.0
+2025,NY422,Town of Guilderland,36091,114.0,81.0,1047.0
+2025,NY424,Town of Wilton,36091,34.0,94.0,597.0
+2025,NY427,Town of Bethlehem,36091,63.0,89.0,842.0
+2025,NY428,Town of Duanesburg,36091,18.0,78.0,672.0
+2025,NY430,Town of Niskayuna,36091,49.0,78.0,1881.0
+2025,NY431,Town of Schodack,36091,46.0,52.0,840.0
+2025,NY433,City of Johnstown,36091,144.0,80.0,513.0
+2025,NY443,City of Utica,36065,1292.0,89.0,689.0
+2025,NY447,Town of Knox,36091,23.0,57.0,877.0
+2025,NY501,Hoosick Housing Authority,36083,218.0,59.0,844.0
+2025,NY503,Town of Waterford,36091,45.0,84.0,1033.0
+2025,NY504,City of Fulton,36075,485.0,78.0,588.0
+2025,NY505,Town of Union Community Development,36007,528.0,60.0,556.0
+2025,NY512,Village of Scotia,36091,110.0,85.0,796.0
+2025,NY513,Town of Glenville,36091,63.0,89.0,823.0
+2025,NY516,Town of Rotterdam,36091,249.0,84.0,878.0
+2025,NY519,Town of Corinth,36091,31.0,94.0,781.0
+2025,NY521,Canastota Housing Authority,36053,139.0,59.0,542.0
+2025,NY527,Village of Manlius,36067,1334.0,68.0,704.0
+2025,NY529,Town of Saugerties P H A,36111,183.0,71.0,843.0
+2025,NY530,Fort Plain Housing Agency,36091,246.0,61.0,570.0
+2025,NY532,Village of Cobleskill,36095,268.0,95.0,659.0
+2025,NY534,Boonville Housing Authority,36065,34.0,56.0,404.0
+2025,NY535,Village of Green Island,36091,49.0,90.0,1181.0
+2025,NY538,Village of Corinth,36091,94.0,61.0,982.0
+2025,NY541,Village of Walton,36025,413.0,69.0,474.0
+2025,NY552,Village of New Hartford,36065,419.0,53.0,550.0
+2025,NY557,Town of Coeymans,36091,81.0,91.0,975.0
+2025,NY561,Town of Stillwater,36091,138.0,71.0,906.0
+2025,NY562,Village of Ballston Spa,36091,163.0,75.0,754.0
+2025,NY564,Town of Nassau,36091,34.0,68.0,760.0
+2025,NY630,Village of Waterford,36091,58.0,71.0,913.0
+2025,NY888,Mercy Haven Inc.,36103,75.0,89.0,1896.0
+2025,NY889,Southern Tier Environments for Living,36013,25.0,88.0,483.0
+2025,NY891,Options for Community Living,36103,75.0,87.0,1958.0
+2025,NY895,Community Development Corp of Long Island,36103,125.0,85.0,1996.0
+2025,NY904,NYS Housing Trust Fund Corporation,36061,52085.0,87.0,1580.0
