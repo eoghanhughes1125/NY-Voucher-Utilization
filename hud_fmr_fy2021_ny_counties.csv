@@ -1,0 +1,63 @@
+county_fips,county,fmr_area,fmr_0br,fmr_1br,fmr_2br,fmr_3br,fmr_4br
+36001,Albany County,"Albany-Schenectady-Troy, NY MSA",809,912,1117,1389,1515
+36003,Allegany County,"Allegany County, NY",550,592,734,951,1103
+36005,Bronx County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36007,Broome County,"Binghamton, NY MSA",632,654,846,1117,1284
+36009,Cattaraugus County,"Cattaraugus County, NY",604,607,734,1015,1104
+36011,Cayuga County,"Cayuga County, NY",638,685,847,1076,1197
+36013,Chautauqua County,"Chautauqua County, NY",557,611,747,975,1065
+36015,Chemung County,"Elmira, NY MSA",729,733,924,1220,1283
+36017,Chenango County,"Chenango County, NY",543,646,791,1007,1073
+36019,Clinton County,"Clinton County, NY",692,697,884,1150,1266
+36021,Columbia County,"Columbia County, NY",761,855,1028,1360,1394
+36023,Cortland County,"Cortland County, NY",678,733,870,1083,1285
+36025,Delaware County,"Delaware County, NY",646,650,764,1032,1036
+36027,Dutchess County,"Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",1088,1160,1467,1868,2097
+36029,Erie County,"Buffalo-Cheektowaga-Niagara Falls, NY MSA",743,772,920,1144,1284
+36031,Essex County,"Essex County, NY",680,719,853,1157,1161
+36033,Franklin County,"Franklin County, NY",532,680,775,1041,1051
+36035,Fulton County,"Fulton County, NY",600,694,854,1062,1262
+36037,Genesee County,"Genesee County, NY",575,696,837,1148,1232
+36039,Greene County,"Greene County, NY",708,834,1047,1370,1420
+36041,Hamilton County,"Hamilton County, NY",695,700,922,1147,1317
+36043,Herkimer County,"Utica-Rome, NY MSA",587,625,796,990,1140
+36045,Jefferson County,"Watertown-Fort Drum, NY MSA",691,794,1047,1389,1610
+36047,Kings County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36049,Lewis County,"Lewis County, NY",645,669,828,1096,1254
+36051,Livingston County,"Rochester, NY HUD Metro FMR Area",698,805,1006,1251,1364
+36053,Madison County,"Syracuse, NY MSA",648,729,901,1124,1303
+36055,Monroe County,"Rochester, NY HUD Metro FMR Area",698,805,1006,1251,1364
+36057,Montgomery County,"Montgomery County, NY",706,711,845,1051,1172
+36059,Nassau County,"Nassau-Suffolk, NY HUD Metro FMR Area",1343,1659,2035,2606,2896
+36061,New York County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36063,Niagara County,"Buffalo-Cheektowaga-Niagara Falls, NY MSA",743,772,920,1144,1284
+36065,Oneida County,"Utica-Rome, NY MSA",587,625,796,990,1140
+36067,Onondaga County,"Syracuse, NY MSA",648,729,901,1124,1303
+36069,Ontario County,"Rochester, NY HUD Metro FMR Area",698,805,1006,1251,1364
+36071,Orange County,"Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",1088,1160,1467,1868,2097
+36073,Orleans County,"Rochester, NY HUD Metro FMR Area",698,805,1006,1251,1364
+36075,Oswego County,"Syracuse, NY MSA",648,729,901,1124,1303
+36077,Otsego County,"Otsego County, NY",732,737,916,1182,1425
+36079,Putnam County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36081,Queens County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36083,Rensselaer County,"Albany-Schenectady-Troy, NY MSA",809,912,1117,1389,1515
+36085,Richmond County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36087,Rockland County,"New York, NY HUD Metro FMR Area",1760,1801,2053,2598,2784
+36089,St. Lawrence County,"St. Lawrence County, NY",620,693,857,1066,1270
+36091,Saratoga County,"Albany-Schenectady-Troy, NY MSA",809,912,1117,1389,1515
+36093,Schenectady County,"Albany-Schenectady-Troy, NY MSA",809,912,1117,1389,1515
+36095,Schoharie County,"Albany-Schenectady-Troy, NY MSA",809,912,1117,1389,1515
+36097,Schuyler County,"Schuyler County, NY",607,631,779,1084,1286
+36099,Seneca County,"Seneca County, NY",697,701,865,1118,1264
+36101,Steuben County,"Steuben County, NY",637,657,773,1044,1234
+36103,Suffolk County,"Nassau-Suffolk, NY HUD Metro FMR Area",1343,1659,2035,2606,2896
+36105,Sullivan County,"Sullivan County, NY",681,823,1032,1284,1427
+36107,Tioga County,"Binghamton, NY MSA",632,654,846,1117,1284
+36109,Tompkins County,"Ithaca, NY MSA",980,1048,1269,1619,1812
+36111,Ulster County,"Kingston, NY MSA",860,1020,1296,1685,1906
+36113,Warren County,"Glens Falls, NY MSA",677,794,1005,1311,1380
+36115,Washington County,"Glens Falls, NY MSA",677,794,1005,1311,1380
+36117,Wayne County,"Rochester, NY HUD Metro FMR Area",698,805,1006,1251,1364
+36119,Westchester County,"Westchester County, NY Statutory Exception Area",1386,1619,1943,2484,2823
+36121,Wyoming County,"Wyoming County, NY",522,574,757,1015,1027
+36123,Yates County,"Yates County, NY HUD Metro FMR Area",566,667,815,1101,1105
